@@ -1,9 +1,102 @@
 fileFormatVersion: 2
 guid: d4d1482cd8458cc4787c53d93f3a7947
-timeCreated: 1496785237
+timeCreated: 1497301225
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Andras_0
+    21300002: PC Computer - MapleStory - Andras_1
+    21300004: PC Computer - MapleStory - Andras_2
+    21300006: PC Computer - MapleStory - Andras_3
+    21300008: PC Computer - MapleStory - Andras_4
+    21300010: PC Computer - MapleStory - Andras_5
+    21300012: PC Computer - MapleStory - Andras_6
+    21300014: PC Computer - MapleStory - Andras_7
+    21300016: PC Computer - MapleStory - Andras_8
+    21300018: PC Computer - MapleStory - Andras_9
+    21300020: PC Computer - MapleStory - Andras_10
+    21300022: PC Computer - MapleStory - Andras_11
+    21300024: PC Computer - MapleStory - Andras_12
+    21300026: PC Computer - MapleStory - Andras_13
+    21300028: PC Computer - MapleStory - Andras_14
+    21300030: PC Computer - MapleStory - Andras_15
+    21300032: PC Computer - MapleStory - Andras_16
+    21300034: PC Computer - MapleStory - Andras_17
+    21300036: PC Computer - MapleStory - Andras_18
+    21300038: PC Computer - MapleStory - Andras_19
+    21300040: PC Computer - MapleStory - Andras_20
+    21300042: PC Computer - MapleStory - Andras_21
+    21300044: PC Computer - MapleStory - Andras_22
+    21300046: PC Computer - MapleStory - Andras_23
+    21300048: PC Computer - MapleStory - Andras_24
+    21300050: PC Computer - MapleStory - Andras_25
+    21300052: PC Computer - MapleStory - Andras_26
+    21300054: PC Computer - MapleStory - Andras_27
+    21300056: PC Computer - MapleStory - Andras_28
+    21300058: PC Computer - MapleStory - Andras_29
+    21300060: PC Computer - MapleStory - Andras_30
+    21300062: PC Computer - MapleStory - Andras_31
+    21300064: PC Computer - MapleStory - Andras_32
+    21300066: PC Computer - MapleStory - Andras_33
+    21300068: PC Computer - MapleStory - Andras_34
+    21300070: PC Computer - MapleStory - Andras_35
+    21300072: PC Computer - MapleStory - Andras_36
+    21300074: PC Computer - MapleStory - Andras_37
+    21300076: PC Computer - MapleStory - Andras_38
+    21300078: PC Computer - MapleStory - Andras_39
+    21300080: PC Computer - MapleStory - Andras_40
+    21300082: PC Computer - MapleStory - Andras_41
+    21300084: PC Computer - MapleStory - Andras_42
+    21300086: PC Computer - MapleStory - Andras_43
+    21300088: PC Computer - MapleStory - Andras_44
+    21300090: PC Computer - MapleStory - Andras_45
+    21300092: PC Computer - MapleStory - Andras_46
+    21300094: PC Computer - MapleStory - Andras_47
+    21300096: PC Computer - MapleStory - Andras_48
+    21300098: PC Computer - MapleStory - Andras_49
+    21300100: PC Computer - MapleStory - Andras_50
+    21300102: PC Computer - MapleStory - Andras_51
+    21300104: PC Computer - MapleStory - Andras_52
+    21300106: PC Computer - MapleStory - Andras_53
+    21300108: PC Computer - MapleStory - Andras_54
+    21300110: PC Computer - MapleStory - Andras_55
+    21300112: PC Computer - MapleStory - Andras_56
+    21300114: PC Computer - MapleStory - Andras_57
+    21300116: PC Computer - MapleStory - Andras_58
+    21300118: PC Computer - MapleStory - Andras_59
+    21300120: PC Computer - MapleStory - Andras_60
+    21300122: PC Computer - MapleStory - Andras_61
+    21300124: PC Computer - MapleStory - Andras_62
+    21300126: PC Computer - MapleStory - Andras_63
+    21300128: PC Computer - MapleStory - Andras_64
+    21300130: PC Computer - MapleStory - Andras_65
+    21300132: PC Computer - MapleStory - Andras_66
+    21300134: PC Computer - MapleStory - Andras_67
+    21300136: PC Computer - MapleStory - Andras_68
+    21300138: PC Computer - MapleStory - Andras_69
+    21300140: PC Computer - MapleStory - Andras_70
+    21300142: PC Computer - MapleStory - Andras_71
+    21300144: PC Computer - MapleStory - Andras_72
+    21300146: PC Computer - MapleStory - Andras_73
+    21300148: PC Computer - MapleStory - Andras_74
+    21300150: PC Computer - MapleStory - Andras_75
+    21300152: PC Computer - MapleStory - Andras_76
+    21300154: PC Computer - MapleStory - Andras_77
+    21300156: PC Computer - MapleStory - Andras_78
+    21300158: PC Computer - MapleStory - Andras_79
+    21300160: PC Computer - MapleStory - Andras_80
+    21300162: PC Computer - MapleStory - Andras_81
+    21300164: PC Computer - MapleStory - Andras_82
+    21300166: PC Computer - MapleStory - Andras_83
+    21300168: PC Computer - MapleStory - Andras_84
+    21300170: PC Computer - MapleStory - Andras_85
+    21300172: PC Computer - MapleStory - Andras_86
+    21300174: PC Computer - MapleStory - Andras_87
+    21300176: PC Computer - MapleStory - Andras_88
+    21300178: PC Computer - MapleStory - Andras_89
+    21300180: PC Computer - MapleStory - Andras_90
+    21300182: PC Computer - MapleStory - Andras_91
+    21300184: PC Computer - MapleStory - Andras_92
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +127,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +151,1226 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 788
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 789
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 789
+        width: 122
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 788
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 662
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 662
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 662
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 662
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 662
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 527
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 527
+        width: 133
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 527
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 528
+        width: 159
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 528
+        width: 175
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 528
+        width: 191
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 527
+        width: 162
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 527
+        width: 156
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_17
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_18
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 527
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_19
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 614
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_20
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 600
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_21
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 579
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_22
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 583
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 585
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 536
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 547
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_26
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 540
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_27
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 566
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_28
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 560
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_29
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 567
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_30
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 567
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_31
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 532
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_32
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 562
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_33
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 549
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_34
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 540
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 420
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 424
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 433
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_38
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 433
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 432
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 446
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 467
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_42
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 444
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 387
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 398
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 386
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 380
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 383
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_48
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 376
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_49
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 381
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_50
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 271
+        width: 155
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_51
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 342
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_52
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 271
+        width: 156
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_53
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 391
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_54
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 272
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_55
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 271
+        width: 217
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_56
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 272
+        width: 225
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_57
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 272
+        width: 228
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 271
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 271
+        width: 148
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 271
+        width: 151
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_63
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_64
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 391
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_65
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 391
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_66
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 274
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_67
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 271
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_68
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 272
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 271
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 359
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 366
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_72
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 362
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_73
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_74
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 272
+        width: 233
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 358
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_76
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 357
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_77
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 357
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 202
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 79
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 146
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_86
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_87
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 5
+        width: 141
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_88
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 5
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_89
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 5
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_90
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 5
+        width: 140
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_91
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Andras_92
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
