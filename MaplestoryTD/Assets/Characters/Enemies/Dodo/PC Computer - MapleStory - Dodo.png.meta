@@ -1,9 +1,191 @@
 fileFormatVersion: 2
 guid: 4027f7dc36fbd0f48848820ec0f3b0e0
-timeCreated: 1496785203
+timeCreated: 1497391713
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Dodo_0
+    21300002: PC Computer - MapleStory - Dodo_1
+    21300004: PC Computer - MapleStory - Dodo_2
+    21300006: PC Computer - MapleStory - Dodo_3
+    21300008: PC Computer - MapleStory - Dodo_4
+    21300010: PC Computer - MapleStory - Dodo_5
+    21300012: PC Computer - MapleStory - Dodo_6
+    21300014: PC Computer - MapleStory - Dodo_7
+    21300016: PC Computer - MapleStory - Dodo_8
+    21300018: PC Computer - MapleStory - Dodo_9
+    21300020: PC Computer - MapleStory - Dodo_10
+    21300022: PC Computer - MapleStory - Dodo_11
+    21300024: PC Computer - MapleStory - Dodo_12
+    21300026: PC Computer - MapleStory - Dodo_13
+    21300028: PC Computer - MapleStory - Dodo_14
+    21300030: PC Computer - MapleStory - Dodo_15
+    21300032: PC Computer - MapleStory - Dodo_16
+    21300034: PC Computer - MapleStory - Dodo_17
+    21300036: PC Computer - MapleStory - Dodo_18
+    21300038: PC Computer - MapleStory - Dodo_19
+    21300040: PC Computer - MapleStory - Dodo_20
+    21300042: PC Computer - MapleStory - Dodo_21
+    21300044: PC Computer - MapleStory - Dodo_22
+    21300046: PC Computer - MapleStory - Dodo_23
+    21300048: PC Computer - MapleStory - Dodo_24
+    21300050: PC Computer - MapleStory - Dodo_25
+    21300052: PC Computer - MapleStory - Dodo_26
+    21300054: PC Computer - MapleStory - Dodo_27
+    21300056: PC Computer - MapleStory - Dodo_28
+    21300058: PC Computer - MapleStory - Dodo_29
+    21300060: PC Computer - MapleStory - Dodo_30
+    21300062: PC Computer - MapleStory - Dodo_31
+    21300064: PC Computer - MapleStory - Dodo_32
+    21300066: PC Computer - MapleStory - Dodo_33
+    21300068: PC Computer - MapleStory - Dodo_34
+    21300070: PC Computer - MapleStory - Dodo_35
+    21300072: PC Computer - MapleStory - Dodo_36
+    21300074: PC Computer - MapleStory - Dodo_37
+    21300076: PC Computer - MapleStory - Dodo_38
+    21300078: PC Computer - MapleStory - Dodo_39
+    21300080: PC Computer - MapleStory - Dodo_40
+    21300082: PC Computer - MapleStory - Dodo_41
+    21300084: PC Computer - MapleStory - Dodo_42
+    21300086: PC Computer - MapleStory - Dodo_43
+    21300088: PC Computer - MapleStory - Dodo_44
+    21300090: PC Computer - MapleStory - Dodo_45
+    21300092: PC Computer - MapleStory - Dodo_46
+    21300094: PC Computer - MapleStory - Dodo_47
+    21300096: PC Computer - MapleStory - Dodo_48
+    21300098: PC Computer - MapleStory - Dodo_49
+    21300100: PC Computer - MapleStory - Dodo_50
+    21300102: PC Computer - MapleStory - Dodo_51
+    21300104: PC Computer - MapleStory - Dodo_52
+    21300106: PC Computer - MapleStory - Dodo_53
+    21300108: PC Computer - MapleStory - Dodo_54
+    21300110: PC Computer - MapleStory - Dodo_55
+    21300112: PC Computer - MapleStory - Dodo_56
+    21300114: PC Computer - MapleStory - Dodo_57
+    21300116: PC Computer - MapleStory - Dodo_58
+    21300118: PC Computer - MapleStory - Dodo_59
+    21300120: PC Computer - MapleStory - Dodo_60
+    21300122: PC Computer - MapleStory - Dodo_61
+    21300124: PC Computer - MapleStory - Dodo_62
+    21300126: PC Computer - MapleStory - Dodo_63
+    21300128: PC Computer - MapleStory - Dodo_64
+    21300130: PC Computer - MapleStory - Dodo_65
+    21300132: PC Computer - MapleStory - Dodo_66
+    21300134: PC Computer - MapleStory - Dodo_67
+    21300136: PC Computer - MapleStory - Dodo_68
+    21300138: PC Computer - MapleStory - Dodo_69
+    21300140: PC Computer - MapleStory - Dodo_70
+    21300142: PC Computer - MapleStory - Dodo_71
+    21300144: PC Computer - MapleStory - Dodo_72
+    21300146: PC Computer - MapleStory - Dodo_73
+    21300148: PC Computer - MapleStory - Dodo_74
+    21300150: PC Computer - MapleStory - Dodo_75
+    21300152: PC Computer - MapleStory - Dodo_76
+    21300154: PC Computer - MapleStory - Dodo_77
+    21300156: PC Computer - MapleStory - Dodo_78
+    21300158: PC Computer - MapleStory - Dodo_79
+    21300160: PC Computer - MapleStory - Dodo_80
+    21300162: PC Computer - MapleStory - Dodo_81
+    21300164: PC Computer - MapleStory - Dodo_82
+    21300166: PC Computer - MapleStory - Dodo_83
+    21300168: PC Computer - MapleStory - Dodo_84
+    21300170: PC Computer - MapleStory - Dodo_85
+    21300172: PC Computer - MapleStory - Dodo_86
+    21300174: PC Computer - MapleStory - Dodo_87
+    21300176: PC Computer - MapleStory - Dodo_88
+    21300178: PC Computer - MapleStory - Dodo_89
+    21300180: PC Computer - MapleStory - Dodo_90
+    21300182: PC Computer - MapleStory - Dodo_91
+    21300184: PC Computer - MapleStory - Dodo_92
+    21300186: PC Computer - MapleStory - Dodo_93
+    21300188: PC Computer - MapleStory - Dodo_94
+    21300190: PC Computer - MapleStory - Dodo_95
+    21300192: PC Computer - MapleStory - Dodo_96
+    21300194: PC Computer - MapleStory - Dodo_97
+    21300196: PC Computer - MapleStory - Dodo_98
+    21300198: PC Computer - MapleStory - Dodo_99
+    21300200: PC Computer - MapleStory - Dodo_100
+    21300202: PC Computer - MapleStory - Dodo_101
+    21300204: PC Computer - MapleStory - Dodo_102
+    21300206: PC Computer - MapleStory - Dodo_103
+    21300208: PC Computer - MapleStory - Dodo_104
+    21300210: PC Computer - MapleStory - Dodo_105
+    21300212: PC Computer - MapleStory - Dodo_106
+    21300214: PC Computer - MapleStory - Dodo_107
+    21300216: PC Computer - MapleStory - Dodo_108
+    21300218: PC Computer - MapleStory - Dodo_109
+    21300220: PC Computer - MapleStory - Dodo_110
+    21300222: PC Computer - MapleStory - Dodo_111
+    21300224: PC Computer - MapleStory - Dodo_112
+    21300226: PC Computer - MapleStory - Dodo_113
+    21300228: PC Computer - MapleStory - Dodo_114
+    21300230: PC Computer - MapleStory - Dodo_115
+    21300232: PC Computer - MapleStory - Dodo_116
+    21300234: PC Computer - MapleStory - Dodo_117
+    21300236: PC Computer - MapleStory - Dodo_118
+    21300238: PC Computer - MapleStory - Dodo_119
+    21300240: PC Computer - MapleStory - Dodo_120
+    21300242: PC Computer - MapleStory - Dodo_121
+    21300244: PC Computer - MapleStory - Dodo_122
+    21300246: PC Computer - MapleStory - Dodo_123
+    21300248: PC Computer - MapleStory - Dodo_124
+    21300250: PC Computer - MapleStory - Dodo_125
+    21300252: PC Computer - MapleStory - Dodo_126
+    21300254: PC Computer - MapleStory - Dodo_127
+    21300256: PC Computer - MapleStory - Dodo_128
+    21300258: PC Computer - MapleStory - Dodo_129
+    21300260: PC Computer - MapleStory - Dodo_130
+    21300262: PC Computer - MapleStory - Dodo_131
+    21300264: PC Computer - MapleStory - Dodo_132
+    21300266: PC Computer - MapleStory - Dodo_133
+    21300268: PC Computer - MapleStory - Dodo_134
+    21300270: PC Computer - MapleStory - Dodo_135
+    21300272: PC Computer - MapleStory - Dodo_136
+    21300274: PC Computer - MapleStory - Dodo_137
+    21300276: PC Computer - MapleStory - Dodo_138
+    21300278: PC Computer - MapleStory - Dodo_139
+    21300280: PC Computer - MapleStory - Dodo_140
+    21300282: PC Computer - MapleStory - Dodo_141
+    21300284: PC Computer - MapleStory - Dodo_142
+    21300286: PC Computer - MapleStory - Dodo_143
+    21300288: PC Computer - MapleStory - Dodo_144
+    21300290: PC Computer - MapleStory - Dodo_145
+    21300292: PC Computer - MapleStory - Dodo_146
+    21300294: PC Computer - MapleStory - Dodo_147
+    21300296: PC Computer - MapleStory - Dodo_148
+    21300298: PC Computer - MapleStory - Dodo_149
+    21300300: PC Computer - MapleStory - Dodo_150
+    21300302: PC Computer - MapleStory - Dodo_151
+    21300304: PC Computer - MapleStory - Dodo_152
+    21300306: PC Computer - MapleStory - Dodo_153
+    21300308: PC Computer - MapleStory - Dodo_154
+    21300310: PC Computer - MapleStory - Dodo_155
+    21300312: PC Computer - MapleStory - Dodo_156
+    21300314: PC Computer - MapleStory - Dodo_157
+    21300316: PC Computer - MapleStory - Dodo_158
+    21300318: PC Computer - MapleStory - Dodo_159
+    21300320: PC Computer - MapleStory - Dodo_160
+    21300322: PC Computer - MapleStory - Dodo_161
+    21300324: PC Computer - MapleStory - Dodo_162
+    21300326: PC Computer - MapleStory - Dodo_163
+    21300328: PC Computer - MapleStory - Dodo_164
+    21300330: PC Computer - MapleStory - Dodo_165
+    21300332: PC Computer - MapleStory - Dodo_166
+    21300334: PC Computer - MapleStory - Dodo_167
+    21300336: PC Computer - MapleStory - Dodo_168
+    21300338: PC Computer - MapleStory - Dodo_169
+    21300340: PC Computer - MapleStory - Dodo_170
+    21300342: PC Computer - MapleStory - Dodo_171
+    21300344: PC Computer - MapleStory - Dodo_172
+    21300346: PC Computer - MapleStory - Dodo_173
+    21300348: PC Computer - MapleStory - Dodo_174
+    21300350: PC Computer - MapleStory - Dodo_175
+    21300352: PC Computer - MapleStory - Dodo_176
+    21300354: PC Computer - MapleStory - Dodo_177
+    21300356: PC Computer - MapleStory - Dodo_178
+    21300358: PC Computer - MapleStory - Dodo_179
+    21300360: PC Computer - MapleStory - Dodo_180
+    21300362: PC Computer - MapleStory - Dodo_181
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +216,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +240,2383 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2277
+        width: 240
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2277
+        width: 240
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2277
+        width: 244
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2275
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2275
+        width: 249
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_5
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2273
+        width: 243
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_6
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2272
+        width: 241
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_7
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 2270
+        width: 240
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2023
+        width: 240
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2023
+        width: 245
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2023
+        width: 239
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2021
+        width: 234
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_12
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2021
+        width: 227
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2018
+        width: 244
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_14
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2018
+        width: 245
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_15
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2018
+        width: 245
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1702
+        width: 241
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1702
+        width: 255
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1702
+        width: 262
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_19
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1702
+        width: 263
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_20
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1702
+        width: 262
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_21
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1702
+        width: 264
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_22
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1700
+        width: 265
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_23
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1700
+        width: 314
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_24
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1836
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_25
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1700
+        width: 252
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_26
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1700
+        width: 249
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_27
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 1699
+        width: 258
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1698
+        width: 245
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_29
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1697
+        width: 241
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_30
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1816
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_31
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1811
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_32
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1765
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_33
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1778
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_34
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1716
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_35
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1716
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1584
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1584
+        width: 106
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1584
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1602
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1604
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1584
+        width: 106
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1459
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1459
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1463
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1512
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1518
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1495
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1490
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1457
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1151
+        width: 242
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1310
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1151
+        width: 262
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1151
+        width: 301
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_55
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1149
+        width: 311
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_56
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1149
+        width: 304
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_57
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1149
+        width: 305
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_58
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1149
+        width: 302
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_59
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1147
+        width: 301
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_60
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1147
+        width: 296
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_61
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1146
+        width: 319
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_62
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1146
+        width: 314
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_63
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1145
+        width: 307
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_64
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1145
+        width: 332
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_65
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1145
+        width: 249
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_66
+      rect:
+        serializedVersion: 2
+        x: 4307
+        y: 1142
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_67
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1292
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1285
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_69
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1259
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1266
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1256
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_72
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1238
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_73
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_74
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1227
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_75
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1204
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_77
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1205
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1031
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1029
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1029
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1029
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1047
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_84
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1029
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 748
+        width: 240
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 749
+        width: 241
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 748
+        width: 258
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_88
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 748
+        width: 267
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_89
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 748
+        width: 270
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_90
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 747
+        width: 273
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_91
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 746
+        width: 277
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_92
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 746
+        width: 281
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_93
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 775
+        width: 283
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_94
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 777
+        width: 281
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_95
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 779
+        width: 279
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_96
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 743
+        width: 274
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_97
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 741
+        width: 268
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_98
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 744
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_99
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 744
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_100
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 744
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_101
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 744
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_102
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 744
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_103
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 744
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_104
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 429
+        width: 267
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_105
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 688
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_106
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 672
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_107
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_108
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 692
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_109
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 674
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_110
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 695
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_111
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 693
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_112
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 674
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_113
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_114
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 672
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_115
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 677
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_116
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 681
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_117
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 674
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_118
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 668
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_119
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 681
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_120
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 431
+        width: 265
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_121
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 431
+        width: 263
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_122
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 670
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_123
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 650
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_124
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 671
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_125
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 672
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_126
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 672
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_127
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 670
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_128
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 670
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_129
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 668
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_130
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 432
+        width: 256
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 431
+        width: 262
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_132
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 431
+        width: 261
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_133
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 431
+        width: 269
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_134
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 431
+        width: 263
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_135
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 429
+        width: 265
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_136
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 645
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_137
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 429
+        width: 261
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_138
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 660
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_139
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 650
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_140
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 649
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_141
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 643
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_142
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 429
+        width: 249
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_143
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 646
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_144
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 431
+        width: 241
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_145
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 432
+        width: 249
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_146
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 594
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_147
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 133
+        width: 243
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 270
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_149
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 130
+        width: 282
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_150
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_151
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 129
+        width: 295
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_152
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 128
+        width: 269
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_153
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 128
+        width: 268
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_154
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 171
+        width: 156
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_155
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 128
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_156
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 126
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_157
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 126
+        width: 171
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_158
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 126
+        width: 180
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_159
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 124
+        width: 181
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_160
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_161
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_162
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_163
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_164
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 148
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_165
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 142
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_166
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 142
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_167
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 142
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_168
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 137
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_169
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 142
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_170
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_171
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 144
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_172
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_173
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 137
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_174
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 135
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_175
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_176
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 130
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_177
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 133
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_178
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 130
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_179
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_180
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 124
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dodo_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 237
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

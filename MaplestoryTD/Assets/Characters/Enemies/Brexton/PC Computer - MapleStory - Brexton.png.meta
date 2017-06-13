@@ -1,9 +1,142 @@
 fileFormatVersion: 2
 guid: 5c42e88f2d35e5544a99845f577285e8
-timeCreated: 1496785211
+timeCreated: 1497391403
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Brexton_0
+    21300002: PC Computer - MapleStory - Brexton_1
+    21300004: PC Computer - MapleStory - Brexton_2
+    21300006: PC Computer - MapleStory - Brexton_3
+    21300008: PC Computer - MapleStory - Brexton_4
+    21300010: PC Computer - MapleStory - Brexton_5
+    21300012: PC Computer - MapleStory - Brexton_6
+    21300014: PC Computer - MapleStory - Brexton_7
+    21300016: PC Computer - MapleStory - Brexton_8
+    21300018: PC Computer - MapleStory - Brexton_9
+    21300020: PC Computer - MapleStory - Brexton_10
+    21300022: PC Computer - MapleStory - Brexton_11
+    21300024: PC Computer - MapleStory - Brexton_12
+    21300026: PC Computer - MapleStory - Brexton_13
+    21300028: PC Computer - MapleStory - Brexton_14
+    21300030: PC Computer - MapleStory - Brexton_15
+    21300032: PC Computer - MapleStory - Brexton_16
+    21300034: PC Computer - MapleStory - Brexton_17
+    21300036: PC Computer - MapleStory - Brexton_18
+    21300038: PC Computer - MapleStory - Brexton_19
+    21300040: PC Computer - MapleStory - Brexton_20
+    21300042: PC Computer - MapleStory - Brexton_21
+    21300044: PC Computer - MapleStory - Brexton_22
+    21300046: PC Computer - MapleStory - Brexton_23
+    21300048: PC Computer - MapleStory - Brexton_24
+    21300050: PC Computer - MapleStory - Brexton_25
+    21300052: PC Computer - MapleStory - Brexton_26
+    21300054: PC Computer - MapleStory - Brexton_27
+    21300056: PC Computer - MapleStory - Brexton_28
+    21300058: PC Computer - MapleStory - Brexton_29
+    21300060: PC Computer - MapleStory - Brexton_30
+    21300062: PC Computer - MapleStory - Brexton_31
+    21300064: PC Computer - MapleStory - Brexton_32
+    21300066: PC Computer - MapleStory - Brexton_33
+    21300068: PC Computer - MapleStory - Brexton_34
+    21300070: PC Computer - MapleStory - Brexton_35
+    21300072: PC Computer - MapleStory - Brexton_36
+    21300074: PC Computer - MapleStory - Brexton_37
+    21300076: PC Computer - MapleStory - Brexton_38
+    21300078: PC Computer - MapleStory - Brexton_39
+    21300080: PC Computer - MapleStory - Brexton_40
+    21300082: PC Computer - MapleStory - Brexton_41
+    21300084: PC Computer - MapleStory - Brexton_42
+    21300086: PC Computer - MapleStory - Brexton_43
+    21300088: PC Computer - MapleStory - Brexton_44
+    21300090: PC Computer - MapleStory - Brexton_45
+    21300092: PC Computer - MapleStory - Brexton_46
+    21300094: PC Computer - MapleStory - Brexton_47
+    21300096: PC Computer - MapleStory - Brexton_48
+    21300098: PC Computer - MapleStory - Brexton_49
+    21300100: PC Computer - MapleStory - Brexton_50
+    21300102: PC Computer - MapleStory - Brexton_51
+    21300104: PC Computer - MapleStory - Brexton_52
+    21300106: PC Computer - MapleStory - Brexton_53
+    21300108: PC Computer - MapleStory - Brexton_54
+    21300110: PC Computer - MapleStory - Brexton_55
+    21300112: PC Computer - MapleStory - Brexton_56
+    21300114: PC Computer - MapleStory - Brexton_57
+    21300116: PC Computer - MapleStory - Brexton_58
+    21300118: PC Computer - MapleStory - Brexton_59
+    21300120: PC Computer - MapleStory - Brexton_60
+    21300122: PC Computer - MapleStory - Brexton_61
+    21300124: PC Computer - MapleStory - Brexton_62
+    21300126: PC Computer - MapleStory - Brexton_63
+    21300128: PC Computer - MapleStory - Brexton_64
+    21300130: PC Computer - MapleStory - Brexton_65
+    21300132: PC Computer - MapleStory - Brexton_66
+    21300134: PC Computer - MapleStory - Brexton_67
+    21300136: PC Computer - MapleStory - Brexton_68
+    21300138: PC Computer - MapleStory - Brexton_69
+    21300140: PC Computer - MapleStory - Brexton_70
+    21300142: PC Computer - MapleStory - Brexton_71
+    21300144: PC Computer - MapleStory - Brexton_72
+    21300146: PC Computer - MapleStory - Brexton_73
+    21300148: PC Computer - MapleStory - Brexton_74
+    21300150: PC Computer - MapleStory - Brexton_75
+    21300152: PC Computer - MapleStory - Brexton_76
+    21300154: PC Computer - MapleStory - Brexton_77
+    21300156: PC Computer - MapleStory - Brexton_78
+    21300158: PC Computer - MapleStory - Brexton_79
+    21300160: PC Computer - MapleStory - Brexton_80
+    21300162: PC Computer - MapleStory - Brexton_81
+    21300164: PC Computer - MapleStory - Brexton_82
+    21300166: PC Computer - MapleStory - Brexton_83
+    21300168: PC Computer - MapleStory - Brexton_84
+    21300170: PC Computer - MapleStory - Brexton_85
+    21300172: PC Computer - MapleStory - Brexton_86
+    21300174: PC Computer - MapleStory - Brexton_87
+    21300176: PC Computer - MapleStory - Brexton_88
+    21300178: PC Computer - MapleStory - Brexton_89
+    21300180: PC Computer - MapleStory - Brexton_90
+    21300182: PC Computer - MapleStory - Brexton_91
+    21300184: PC Computer - MapleStory - Brexton_92
+    21300186: PC Computer - MapleStory - Brexton_93
+    21300188: PC Computer - MapleStory - Brexton_94
+    21300190: PC Computer - MapleStory - Brexton_95
+    21300192: PC Computer - MapleStory - Brexton_96
+    21300194: PC Computer - MapleStory - Brexton_97
+    21300196: PC Computer - MapleStory - Brexton_98
+    21300198: PC Computer - MapleStory - Brexton_99
+    21300200: PC Computer - MapleStory - Brexton_100
+    21300202: PC Computer - MapleStory - Brexton_101
+    21300204: PC Computer - MapleStory - Brexton_102
+    21300206: PC Computer - MapleStory - Brexton_103
+    21300208: PC Computer - MapleStory - Brexton_104
+    21300210: PC Computer - MapleStory - Brexton_105
+    21300212: PC Computer - MapleStory - Brexton_106
+    21300214: PC Computer - MapleStory - Brexton_107
+    21300216: PC Computer - MapleStory - Brexton_108
+    21300218: PC Computer - MapleStory - Brexton_109
+    21300220: PC Computer - MapleStory - Brexton_110
+    21300222: PC Computer - MapleStory - Brexton_111
+    21300224: PC Computer - MapleStory - Brexton_112
+    21300226: PC Computer - MapleStory - Brexton_113
+    21300228: PC Computer - MapleStory - Brexton_114
+    21300230: PC Computer - MapleStory - Brexton_115
+    21300232: PC Computer - MapleStory - Brexton_116
+    21300234: PC Computer - MapleStory - Brexton_117
+    21300236: PC Computer - MapleStory - Brexton_118
+    21300238: PC Computer - MapleStory - Brexton_119
+    21300240: PC Computer - MapleStory - Brexton_120
+    21300242: PC Computer - MapleStory - Brexton_121
+    21300244: PC Computer - MapleStory - Brexton_122
+    21300246: PC Computer - MapleStory - Brexton_123
+    21300248: PC Computer - MapleStory - Brexton_124
+    21300250: PC Computer - MapleStory - Brexton_125
+    21300252: PC Computer - MapleStory - Brexton_126
+    21300254: PC Computer - MapleStory - Brexton_127
+    21300256: PC Computer - MapleStory - Brexton_128
+    21300258: PC Computer - MapleStory - Brexton_129
+    21300260: PC Computer - MapleStory - Brexton_130
+    21300262: PC Computer - MapleStory - Brexton_131
+    21300264: PC Computer - MapleStory - Brexton_132
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +167,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +191,1746 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1402
+        width: 179
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1402
+        width: 179
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1402
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1481
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1402
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1402
+        width: 148
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1402
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_9
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1469
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1220
+        width: 168
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1220
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1220
+        width: 176
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1220
+        width: 168
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1220
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1220
+        width: 167
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1036
+        width: 170
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1080
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1080
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1100
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1087
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1096
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1088
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1080
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1080
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1075
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1060
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 814
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 897
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 814
+        width: 153
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 916
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 814
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_34
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 814
+        width: 172
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_35
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 814
+        width: 167
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_36
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 814
+        width: 164
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_37
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 814
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_38
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 814
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_39
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 814
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_40
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 814
+        width: 176
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_41
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 814
+        width: 173
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_42
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 814
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_43
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 814
+        width: 165
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_44
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 814
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 893
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_46
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 832
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_47
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 837
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 829
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_49
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 829
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_50
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 817
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 819
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 715
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 715
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 715
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 715
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 585
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 585
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 585
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 547
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 544
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_61
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 551
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_62
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 542
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 543
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_64
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_65
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 366
+        width: 197
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 544
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_67
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 546
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_68
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 541
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_69
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 541
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 534
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 366
+        width: 168
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 366
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_73
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 541
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_74
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 538
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 535
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_76
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 366
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_77
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 366
+        width: 183
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_78
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 366
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_79
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 366
+        width: 174
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_80
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 366
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_82
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 486
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_83
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 366
+        width: 170
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_84
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 366
+        width: 166
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 460
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_86
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 472
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 451
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_88
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 464
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_89
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 458
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 451
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 440
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_92
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 422
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 411
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 217
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_95
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 217
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_96
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 217
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_97
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 171
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_101
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 189
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_102
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 75
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 19
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_104
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 19
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_105
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_106
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 19
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_107
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 19
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_108
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 20
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_109
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 20
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_111
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 62
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_114
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 55
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_115
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 55
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_116
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_117
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_118
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 24
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_119
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 19
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_120
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 34
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_121
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 34
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_122
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 37
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_123
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_124
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 34
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_125
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_126
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 29
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_127
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 27
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_128
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_129
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_130
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 20
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_131
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 24
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Brexton_132
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
