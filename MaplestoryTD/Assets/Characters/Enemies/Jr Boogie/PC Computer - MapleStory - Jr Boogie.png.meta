@@ -1,9 +1,53 @@
 fileFormatVersion: 2
 guid: dd1d9399940b5094c85afffd322986c7
-timeCreated: 1496785238
+timeCreated: 1497561091
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Jr Boogie_0
+    21300002: PC Computer - MapleStory - Jr Boogie_1
+    21300004: PC Computer - MapleStory - Jr Boogie_2
+    21300006: PC Computer - MapleStory - Jr Boogie_3
+    21300008: PC Computer - MapleStory - Jr Boogie_4
+    21300010: PC Computer - MapleStory - Jr Boogie_5
+    21300012: PC Computer - MapleStory - Jr Boogie_6
+    21300014: PC Computer - MapleStory - Jr Boogie_7
+    21300016: PC Computer - MapleStory - Jr Boogie_8
+    21300018: PC Computer - MapleStory - Jr Boogie_9
+    21300020: PC Computer - MapleStory - Jr Boogie_10
+    21300022: PC Computer - MapleStory - Jr Boogie_11
+    21300024: PC Computer - MapleStory - Jr Boogie_12
+    21300026: PC Computer - MapleStory - Jr Boogie_13
+    21300028: PC Computer - MapleStory - Jr Boogie_14
+    21300030: PC Computer - MapleStory - Jr Boogie_15
+    21300032: PC Computer - MapleStory - Jr Boogie_16
+    21300034: PC Computer - MapleStory - Jr Boogie_17
+    21300036: PC Computer - MapleStory - Jr Boogie_18
+    21300038: PC Computer - MapleStory - Jr Boogie_19
+    21300040: PC Computer - MapleStory - Jr Boogie_20
+    21300042: PC Computer - MapleStory - Jr Boogie_21
+    21300044: PC Computer - MapleStory - Jr Boogie_22
+    21300046: PC Computer - MapleStory - Jr Boogie_23
+    21300048: PC Computer - MapleStory - Jr Boogie_24
+    21300050: PC Computer - MapleStory - Jr Boogie_25
+    21300052: PC Computer - MapleStory - Jr Boogie_26
+    21300054: PC Computer - MapleStory - Jr Boogie_27
+    21300056: PC Computer - MapleStory - Jr Boogie_28
+    21300058: PC Computer - MapleStory - Jr Boogie_29
+    21300060: PC Computer - MapleStory - Jr Boogie_30
+    21300062: PC Computer - MapleStory - Jr Boogie_31
+    21300064: PC Computer - MapleStory - Jr Boogie_32
+    21300066: PC Computer - MapleStory - Jr Boogie_33
+    21300068: PC Computer - MapleStory - Jr Boogie_34
+    21300070: PC Computer - MapleStory - Jr Boogie_35
+    21300072: PC Computer - MapleStory - Jr Boogie_36
+    21300074: PC Computer - MapleStory - Jr Boogie_37
+    21300076: PC Computer - MapleStory - Jr Boogie_38
+    21300078: PC Computer - MapleStory - Jr Boogie_39
+    21300080: PC Computer - MapleStory - Jr Boogie_40
+    21300082: PC Computer - MapleStory - Jr Boogie_41
+    21300084: PC Computer - MapleStory - Jr Boogie_42
+    21300086: PC Computer - MapleStory - Jr Boogie_43
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +78,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +102,589 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 359
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 359
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 359
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 359
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 359
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 291
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 291
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 291
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 291
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 291
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 239
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 239
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 239
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 239
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 183
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 115
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 115
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 115
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 105
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_25
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 115
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_27
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 139
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 120
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 124
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 114
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 47
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 28
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 28
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Jr Boogie_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

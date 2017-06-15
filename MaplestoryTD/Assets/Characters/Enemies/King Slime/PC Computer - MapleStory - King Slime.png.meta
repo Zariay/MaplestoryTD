@@ -1,9 +1,176 @@
 fileFormatVersion: 2
 guid: 7d936124d0136184497088f258498d94
-timeCreated: 1496785214
+timeCreated: 1497561258
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - King Slime_0
+    21300002: PC Computer - MapleStory - King Slime_1
+    21300004: PC Computer - MapleStory - King Slime_2
+    21300006: PC Computer - MapleStory - King Slime_3
+    21300008: PC Computer - MapleStory - King Slime_4
+    21300010: PC Computer - MapleStory - King Slime_5
+    21300012: PC Computer - MapleStory - King Slime_6
+    21300014: PC Computer - MapleStory - King Slime_7
+    21300016: PC Computer - MapleStory - King Slime_8
+    21300018: PC Computer - MapleStory - King Slime_9
+    21300020: PC Computer - MapleStory - King Slime_10
+    21300022: PC Computer - MapleStory - King Slime_11
+    21300024: PC Computer - MapleStory - King Slime_12
+    21300026: PC Computer - MapleStory - King Slime_13
+    21300028: PC Computer - MapleStory - King Slime_14
+    21300030: PC Computer - MapleStory - King Slime_15
+    21300032: PC Computer - MapleStory - King Slime_16
+    21300034: PC Computer - MapleStory - King Slime_17
+    21300036: PC Computer - MapleStory - King Slime_18
+    21300038: PC Computer - MapleStory - King Slime_19
+    21300040: PC Computer - MapleStory - King Slime_20
+    21300042: PC Computer - MapleStory - King Slime_21
+    21300044: PC Computer - MapleStory - King Slime_22
+    21300046: PC Computer - MapleStory - King Slime_23
+    21300048: PC Computer - MapleStory - King Slime_24
+    21300050: PC Computer - MapleStory - King Slime_25
+    21300052: PC Computer - MapleStory - King Slime_26
+    21300054: PC Computer - MapleStory - King Slime_27
+    21300056: PC Computer - MapleStory - King Slime_28
+    21300058: PC Computer - MapleStory - King Slime_29
+    21300060: PC Computer - MapleStory - King Slime_30
+    21300062: PC Computer - MapleStory - King Slime_31
+    21300064: PC Computer - MapleStory - King Slime_32
+    21300066: PC Computer - MapleStory - King Slime_33
+    21300068: PC Computer - MapleStory - King Slime_34
+    21300070: PC Computer - MapleStory - King Slime_35
+    21300072: PC Computer - MapleStory - King Slime_36
+    21300074: PC Computer - MapleStory - King Slime_37
+    21300076: PC Computer - MapleStory - King Slime_38
+    21300078: PC Computer - MapleStory - King Slime_39
+    21300080: PC Computer - MapleStory - King Slime_40
+    21300082: PC Computer - MapleStory - King Slime_41
+    21300084: PC Computer - MapleStory - King Slime_42
+    21300086: PC Computer - MapleStory - King Slime_43
+    21300088: PC Computer - MapleStory - King Slime_44
+    21300090: PC Computer - MapleStory - King Slime_45
+    21300092: PC Computer - MapleStory - King Slime_46
+    21300094: PC Computer - MapleStory - King Slime_47
+    21300096: PC Computer - MapleStory - King Slime_48
+    21300098: PC Computer - MapleStory - King Slime_49
+    21300100: PC Computer - MapleStory - King Slime_50
+    21300102: PC Computer - MapleStory - King Slime_51
+    21300104: PC Computer - MapleStory - King Slime_52
+    21300106: PC Computer - MapleStory - King Slime_53
+    21300108: PC Computer - MapleStory - King Slime_54
+    21300110: PC Computer - MapleStory - King Slime_55
+    21300112: PC Computer - MapleStory - King Slime_56
+    21300114: PC Computer - MapleStory - King Slime_57
+    21300116: PC Computer - MapleStory - King Slime_58
+    21300118: PC Computer - MapleStory - King Slime_59
+    21300120: PC Computer - MapleStory - King Slime_60
+    21300122: PC Computer - MapleStory - King Slime_61
+    21300124: PC Computer - MapleStory - King Slime_62
+    21300126: PC Computer - MapleStory - King Slime_63
+    21300128: PC Computer - MapleStory - King Slime_64
+    21300130: PC Computer - MapleStory - King Slime_65
+    21300132: PC Computer - MapleStory - King Slime_66
+    21300134: PC Computer - MapleStory - King Slime_67
+    21300136: PC Computer - MapleStory - King Slime_68
+    21300138: PC Computer - MapleStory - King Slime_69
+    21300140: PC Computer - MapleStory - King Slime_70
+    21300142: PC Computer - MapleStory - King Slime_71
+    21300144: PC Computer - MapleStory - King Slime_72
+    21300146: PC Computer - MapleStory - King Slime_73
+    21300148: PC Computer - MapleStory - King Slime_74
+    21300150: PC Computer - MapleStory - King Slime_75
+    21300152: PC Computer - MapleStory - King Slime_76
+    21300154: PC Computer - MapleStory - King Slime_77
+    21300156: PC Computer - MapleStory - King Slime_78
+    21300158: PC Computer - MapleStory - King Slime_79
+    21300160: PC Computer - MapleStory - King Slime_80
+    21300162: PC Computer - MapleStory - King Slime_81
+    21300164: PC Computer - MapleStory - King Slime_82
+    21300166: PC Computer - MapleStory - King Slime_83
+    21300168: PC Computer - MapleStory - King Slime_84
+    21300170: PC Computer - MapleStory - King Slime_85
+    21300172: PC Computer - MapleStory - King Slime_86
+    21300174: PC Computer - MapleStory - King Slime_87
+    21300176: PC Computer - MapleStory - King Slime_88
+    21300178: PC Computer - MapleStory - King Slime_89
+    21300180: PC Computer - MapleStory - King Slime_90
+    21300182: PC Computer - MapleStory - King Slime_91
+    21300184: PC Computer - MapleStory - King Slime_92
+    21300186: PC Computer - MapleStory - King Slime_93
+    21300188: PC Computer - MapleStory - King Slime_94
+    21300190: PC Computer - MapleStory - King Slime_95
+    21300192: PC Computer - MapleStory - King Slime_96
+    21300194: PC Computer - MapleStory - King Slime_97
+    21300196: PC Computer - MapleStory - King Slime_98
+    21300198: PC Computer - MapleStory - King Slime_99
+    21300200: PC Computer - MapleStory - King Slime_100
+    21300202: PC Computer - MapleStory - King Slime_101
+    21300204: PC Computer - MapleStory - King Slime_102
+    21300206: PC Computer - MapleStory - King Slime_103
+    21300208: PC Computer - MapleStory - King Slime_104
+    21300210: PC Computer - MapleStory - King Slime_105
+    21300212: PC Computer - MapleStory - King Slime_106
+    21300214: PC Computer - MapleStory - King Slime_107
+    21300216: PC Computer - MapleStory - King Slime_108
+    21300218: PC Computer - MapleStory - King Slime_109
+    21300220: PC Computer - MapleStory - King Slime_110
+    21300222: PC Computer - MapleStory - King Slime_111
+    21300224: PC Computer - MapleStory - King Slime_112
+    21300226: PC Computer - MapleStory - King Slime_113
+    21300228: PC Computer - MapleStory - King Slime_114
+    21300230: PC Computer - MapleStory - King Slime_115
+    21300232: PC Computer - MapleStory - King Slime_116
+    21300234: PC Computer - MapleStory - King Slime_117
+    21300236: PC Computer - MapleStory - King Slime_118
+    21300238: PC Computer - MapleStory - King Slime_119
+    21300240: PC Computer - MapleStory - King Slime_120
+    21300242: PC Computer - MapleStory - King Slime_121
+    21300244: PC Computer - MapleStory - King Slime_122
+    21300246: PC Computer - MapleStory - King Slime_123
+    21300248: PC Computer - MapleStory - King Slime_124
+    21300250: PC Computer - MapleStory - King Slime_125
+    21300252: PC Computer - MapleStory - King Slime_126
+    21300254: PC Computer - MapleStory - King Slime_127
+    21300256: PC Computer - MapleStory - King Slime_128
+    21300258: PC Computer - MapleStory - King Slime_129
+    21300260: PC Computer - MapleStory - King Slime_130
+    21300262: PC Computer - MapleStory - King Slime_131
+    21300264: PC Computer - MapleStory - King Slime_132
+    21300266: PC Computer - MapleStory - King Slime_133
+    21300268: PC Computer - MapleStory - King Slime_134
+    21300270: PC Computer - MapleStory - King Slime_135
+    21300272: PC Computer - MapleStory - King Slime_136
+    21300274: PC Computer - MapleStory - King Slime_137
+    21300276: PC Computer - MapleStory - King Slime_138
+    21300278: PC Computer - MapleStory - King Slime_139
+    21300280: PC Computer - MapleStory - King Slime_140
+    21300282: PC Computer - MapleStory - King Slime_141
+    21300284: PC Computer - MapleStory - King Slime_142
+    21300286: PC Computer - MapleStory - King Slime_143
+    21300288: PC Computer - MapleStory - King Slime_144
+    21300290: PC Computer - MapleStory - King Slime_145
+    21300292: PC Computer - MapleStory - King Slime_146
+    21300294: PC Computer - MapleStory - King Slime_147
+    21300296: PC Computer - MapleStory - King Slime_148
+    21300298: PC Computer - MapleStory - King Slime_149
+    21300300: PC Computer - MapleStory - King Slime_150
+    21300302: PC Computer - MapleStory - King Slime_151
+    21300304: PC Computer - MapleStory - King Slime_152
+    21300306: PC Computer - MapleStory - King Slime_153
+    21300308: PC Computer - MapleStory - King Slime_154
+    21300310: PC Computer - MapleStory - King Slime_155
+    21300312: PC Computer - MapleStory - King Slime_156
+    21300314: PC Computer - MapleStory - King Slime_157
+    21300316: PC Computer - MapleStory - King Slime_158
+    21300318: PC Computer - MapleStory - King Slime_159
+    21300320: PC Computer - MapleStory - King Slime_160
+    21300322: PC Computer - MapleStory - King Slime_161
+    21300324: PC Computer - MapleStory - King Slime_162
+    21300326: PC Computer - MapleStory - King Slime_163
+    21300328: PC Computer - MapleStory - King Slime_164
+    21300330: PC Computer - MapleStory - King Slime_165
+    21300332: PC Computer - MapleStory - King Slime_166
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +201,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +225,2188 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_0
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 950
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_1
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 957
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 957
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_3
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 950
+        width: 155
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_4
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 946
+        width: 184
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_5
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 950
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_6
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 950
+        width: 163
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_7
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 915
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_8
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 915
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_9
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 915
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 741
+        width: 212
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 743
+        width: 225
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 796
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 497
+        width: 225
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 497
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 514
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 546
+        width: 237
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 497
+        width: 206
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_18
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 497
+        width: 193
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_19
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 497
+        width: 211
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_20
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 560
+        width: 350
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 525
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 504
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 498
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_25
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 498
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 186
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 253
+        width: 187
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 253
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 230
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_30
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 211
+        width: 260
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_31
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 224
+        width: 242
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_32
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 211
+        width: 257
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_33
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 209
+        width: 235
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_34
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_35
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 354
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_36
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 234
+        width: 206
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_37
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 322
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_38
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 326
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_39
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 315
+        width: 191
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_40
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 309
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_41
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 315
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_42
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 315
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_43
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 315
+        width: 117
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_44
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 315
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_45
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 309
+        width: 108
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_46
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 315
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_47
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_48
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_49
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 315
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_50
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_51
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 301
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_52
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 301
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_53
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 306
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_54
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 295
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_55
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 295
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_56
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_57
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 278
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_58
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 274
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_59
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 274
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_60
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 266
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_61
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 255
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_62
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 255
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_63
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_64
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_65
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 222
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_66
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 231
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_67
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_68
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 218
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_69
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 118
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_71
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 153
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_72
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 153
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_73
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 146
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 212
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 56
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 130
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_78
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 102
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_80
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 113
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_81
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 105
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 94
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_83
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 91
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_84
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 85
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_85
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 12
+        width: 146
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_86
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_87
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 93
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_88
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_89
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 37
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_90
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 69
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_91
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 82
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_92
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 57
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_93
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 46
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_94
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 74
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_95
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 65
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_96
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_97
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 17
+        width: 205
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_98
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 27
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_99
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 18
+        width: 197
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_100
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 15
+        width: 204
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_101
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 68
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_102
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 55
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_103
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 52
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_104
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 54
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_105
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 62
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_106
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 23
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_107
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 19
+        width: 108
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_108
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 19
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_109
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_110
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_111
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 54
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_112
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 56
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_113
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 51
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_114
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_115
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 23
+        width: 139
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_116
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_117
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_118
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 25
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_119
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 26
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_120
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_121
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 51
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_122
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_123
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_124
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_125
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_126
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 16
+        width: 139
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_128
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 12
+        width: 157
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_129
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 15
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_130
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 15
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_131
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 48
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_132
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_133
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 41
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_134
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_135
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 24
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_136
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 23
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_137
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 27
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_138
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_139
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_140
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 26
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_141
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 40
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_142
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_143
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_144
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_145
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 37
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_146
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_147
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 27
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_148
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_149
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 29
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_150
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_151
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 29
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_152
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 29
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_153
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_154
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 23
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_155
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_156
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_157
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 23
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_158
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 24
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_159
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_160
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 23
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_161
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_162
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_163
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 15
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_164
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_165
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - King Slime_166
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

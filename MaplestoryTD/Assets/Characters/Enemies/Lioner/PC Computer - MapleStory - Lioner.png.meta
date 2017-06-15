@@ -1,9 +1,50 @@
 fileFormatVersion: 2
 guid: 45538bf8aa8c6e345aa22941d3bb3645
-timeCreated: 1496785203
+timeCreated: 1497561480
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Lioner_0
+    21300002: PC Computer - MapleStory - Lioner_1
+    21300004: PC Computer - MapleStory - Lioner_2
+    21300006: PC Computer - MapleStory - Lioner_3
+    21300008: PC Computer - MapleStory - Lioner_4
+    21300010: PC Computer - MapleStory - Lioner_5
+    21300012: PC Computer - MapleStory - Lioner_6
+    21300014: PC Computer - MapleStory - Lioner_7
+    21300016: PC Computer - MapleStory - Lioner_8
+    21300018: PC Computer - MapleStory - Lioner_9
+    21300020: PC Computer - MapleStory - Lioner_10
+    21300022: PC Computer - MapleStory - Lioner_11
+    21300024: PC Computer - MapleStory - Lioner_12
+    21300026: PC Computer - MapleStory - Lioner_13
+    21300028: PC Computer - MapleStory - Lioner_14
+    21300030: PC Computer - MapleStory - Lioner_15
+    21300032: PC Computer - MapleStory - Lioner_16
+    21300034: PC Computer - MapleStory - Lioner_17
+    21300036: PC Computer - MapleStory - Lioner_18
+    21300038: PC Computer - MapleStory - Lioner_19
+    21300040: PC Computer - MapleStory - Lioner_20
+    21300042: PC Computer - MapleStory - Lioner_21
+    21300044: PC Computer - MapleStory - Lioner_22
+    21300046: PC Computer - MapleStory - Lioner_23
+    21300048: PC Computer - MapleStory - Lioner_24
+    21300050: PC Computer - MapleStory - Lioner_25
+    21300052: PC Computer - MapleStory - Lioner_26
+    21300054: PC Computer - MapleStory - Lioner_27
+    21300056: PC Computer - MapleStory - Lioner_28
+    21300058: PC Computer - MapleStory - Lioner_29
+    21300060: PC Computer - MapleStory - Lioner_30
+    21300062: PC Computer - MapleStory - Lioner_31
+    21300064: PC Computer - MapleStory - Lioner_32
+    21300066: PC Computer - MapleStory - Lioner_33
+    21300068: PC Computer - MapleStory - Lioner_34
+    21300070: PC Computer - MapleStory - Lioner_35
+    21300072: PC Computer - MapleStory - Lioner_36
+    21300074: PC Computer - MapleStory - Lioner_37
+    21300076: PC Computer - MapleStory - Lioner_38
+    21300078: PC Computer - MapleStory - Lioner_39
+    21300080: PC Computer - MapleStory - Lioner_40
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +75,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +99,550 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 556
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 556
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 556
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 556
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 479
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 479
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 479
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 398
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 389
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 389
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 389
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 392
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 323
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 373
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 373
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 373
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 373
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 373
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 373
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 224
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 119
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 224
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 289
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 224
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 224
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_29
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 224
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 224
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_31
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 224
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_32
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 224
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_33
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 224
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_35
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 224
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 12
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Lioner_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 12
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

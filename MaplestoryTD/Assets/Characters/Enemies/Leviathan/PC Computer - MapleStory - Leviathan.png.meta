@@ -1,9 +1,164 @@
 fileFormatVersion: 2
 guid: cdbda33cee330604eb414633af407a59
-timeCreated: 1496785236
+timeCreated: 1497561409
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Leviathan_0
+    21300002: PC Computer - MapleStory - Leviathan_1
+    21300004: PC Computer - MapleStory - Leviathan_2
+    21300006: PC Computer - MapleStory - Leviathan_3
+    21300008: PC Computer - MapleStory - Leviathan_4
+    21300010: PC Computer - MapleStory - Leviathan_5
+    21300012: PC Computer - MapleStory - Leviathan_6
+    21300014: PC Computer - MapleStory - Leviathan_7
+    21300016: PC Computer - MapleStory - Leviathan_8
+    21300018: PC Computer - MapleStory - Leviathan_9
+    21300020: PC Computer - MapleStory - Leviathan_10
+    21300022: PC Computer - MapleStory - Leviathan_11
+    21300024: PC Computer - MapleStory - Leviathan_12
+    21300026: PC Computer - MapleStory - Leviathan_13
+    21300028: PC Computer - MapleStory - Leviathan_14
+    21300030: PC Computer - MapleStory - Leviathan_15
+    21300032: PC Computer - MapleStory - Leviathan_16
+    21300034: PC Computer - MapleStory - Leviathan_17
+    21300036: PC Computer - MapleStory - Leviathan_18
+    21300038: PC Computer - MapleStory - Leviathan_19
+    21300040: PC Computer - MapleStory - Leviathan_20
+    21300042: PC Computer - MapleStory - Leviathan_21
+    21300044: PC Computer - MapleStory - Leviathan_22
+    21300046: PC Computer - MapleStory - Leviathan_23
+    21300048: PC Computer - MapleStory - Leviathan_24
+    21300050: PC Computer - MapleStory - Leviathan_25
+    21300052: PC Computer - MapleStory - Leviathan_26
+    21300054: PC Computer - MapleStory - Leviathan_27
+    21300056: PC Computer - MapleStory - Leviathan_28
+    21300058: PC Computer - MapleStory - Leviathan_29
+    21300060: PC Computer - MapleStory - Leviathan_30
+    21300062: PC Computer - MapleStory - Leviathan_31
+    21300064: PC Computer - MapleStory - Leviathan_32
+    21300066: PC Computer - MapleStory - Leviathan_33
+    21300068: PC Computer - MapleStory - Leviathan_34
+    21300070: PC Computer - MapleStory - Leviathan_35
+    21300072: PC Computer - MapleStory - Leviathan_36
+    21300074: PC Computer - MapleStory - Leviathan_37
+    21300076: PC Computer - MapleStory - Leviathan_38
+    21300078: PC Computer - MapleStory - Leviathan_39
+    21300080: PC Computer - MapleStory - Leviathan_40
+    21300082: PC Computer - MapleStory - Leviathan_41
+    21300084: PC Computer - MapleStory - Leviathan_42
+    21300086: PC Computer - MapleStory - Leviathan_43
+    21300088: PC Computer - MapleStory - Leviathan_44
+    21300090: PC Computer - MapleStory - Leviathan_45
+    21300092: PC Computer - MapleStory - Leviathan_46
+    21300094: PC Computer - MapleStory - Leviathan_47
+    21300096: PC Computer - MapleStory - Leviathan_48
+    21300098: PC Computer - MapleStory - Leviathan_49
+    21300100: PC Computer - MapleStory - Leviathan_50
+    21300102: PC Computer - MapleStory - Leviathan_51
+    21300104: PC Computer - MapleStory - Leviathan_52
+    21300106: PC Computer - MapleStory - Leviathan_53
+    21300108: PC Computer - MapleStory - Leviathan_54
+    21300110: PC Computer - MapleStory - Leviathan_55
+    21300112: PC Computer - MapleStory - Leviathan_56
+    21300114: PC Computer - MapleStory - Leviathan_57
+    21300116: PC Computer - MapleStory - Leviathan_58
+    21300118: PC Computer - MapleStory - Leviathan_59
+    21300120: PC Computer - MapleStory - Leviathan_60
+    21300122: PC Computer - MapleStory - Leviathan_61
+    21300124: PC Computer - MapleStory - Leviathan_62
+    21300126: PC Computer - MapleStory - Leviathan_63
+    21300128: PC Computer - MapleStory - Leviathan_64
+    21300130: PC Computer - MapleStory - Leviathan_65
+    21300132: PC Computer - MapleStory - Leviathan_66
+    21300134: PC Computer - MapleStory - Leviathan_67
+    21300136: PC Computer - MapleStory - Leviathan_68
+    21300138: PC Computer - MapleStory - Leviathan_69
+    21300140: PC Computer - MapleStory - Leviathan_70
+    21300142: PC Computer - MapleStory - Leviathan_71
+    21300144: PC Computer - MapleStory - Leviathan_72
+    21300146: PC Computer - MapleStory - Leviathan_73
+    21300148: PC Computer - MapleStory - Leviathan_74
+    21300150: PC Computer - MapleStory - Leviathan_75
+    21300152: PC Computer - MapleStory - Leviathan_76
+    21300154: PC Computer - MapleStory - Leviathan_77
+    21300156: PC Computer - MapleStory - Leviathan_78
+    21300158: PC Computer - MapleStory - Leviathan_79
+    21300160: PC Computer - MapleStory - Leviathan_80
+    21300162: PC Computer - MapleStory - Leviathan_81
+    21300164: PC Computer - MapleStory - Leviathan_82
+    21300166: PC Computer - MapleStory - Leviathan_83
+    21300168: PC Computer - MapleStory - Leviathan_84
+    21300170: PC Computer - MapleStory - Leviathan_85
+    21300172: PC Computer - MapleStory - Leviathan_86
+    21300174: PC Computer - MapleStory - Leviathan_87
+    21300176: PC Computer - MapleStory - Leviathan_88
+    21300178: PC Computer - MapleStory - Leviathan_89
+    21300180: PC Computer - MapleStory - Leviathan_90
+    21300182: PC Computer - MapleStory - Leviathan_91
+    21300184: PC Computer - MapleStory - Leviathan_92
+    21300186: PC Computer - MapleStory - Leviathan_93
+    21300188: PC Computer - MapleStory - Leviathan_94
+    21300190: PC Computer - MapleStory - Leviathan_95
+    21300192: PC Computer - MapleStory - Leviathan_96
+    21300194: PC Computer - MapleStory - Leviathan_97
+    21300196: PC Computer - MapleStory - Leviathan_98
+    21300198: PC Computer - MapleStory - Leviathan_99
+    21300200: PC Computer - MapleStory - Leviathan_100
+    21300202: PC Computer - MapleStory - Leviathan_101
+    21300204: PC Computer - MapleStory - Leviathan_102
+    21300206: PC Computer - MapleStory - Leviathan_103
+    21300208: PC Computer - MapleStory - Leviathan_104
+    21300210: PC Computer - MapleStory - Leviathan_105
+    21300212: PC Computer - MapleStory - Leviathan_106
+    21300214: PC Computer - MapleStory - Leviathan_107
+    21300216: PC Computer - MapleStory - Leviathan_108
+    21300218: PC Computer - MapleStory - Leviathan_109
+    21300220: PC Computer - MapleStory - Leviathan_110
+    21300222: PC Computer - MapleStory - Leviathan_111
+    21300224: PC Computer - MapleStory - Leviathan_112
+    21300226: PC Computer - MapleStory - Leviathan_113
+    21300228: PC Computer - MapleStory - Leviathan_114
+    21300230: PC Computer - MapleStory - Leviathan_115
+    21300232: PC Computer - MapleStory - Leviathan_116
+    21300234: PC Computer - MapleStory - Leviathan_117
+    21300236: PC Computer - MapleStory - Leviathan_118
+    21300238: PC Computer - MapleStory - Leviathan_119
+    21300240: PC Computer - MapleStory - Leviathan_120
+    21300242: PC Computer - MapleStory - Leviathan_121
+    21300244: PC Computer - MapleStory - Leviathan_122
+    21300246: PC Computer - MapleStory - Leviathan_123
+    21300248: PC Computer - MapleStory - Leviathan_124
+    21300250: PC Computer - MapleStory - Leviathan_125
+    21300252: PC Computer - MapleStory - Leviathan_126
+    21300254: PC Computer - MapleStory - Leviathan_127
+    21300256: PC Computer - MapleStory - Leviathan_128
+    21300258: PC Computer - MapleStory - Leviathan_129
+    21300260: PC Computer - MapleStory - Leviathan_130
+    21300262: PC Computer - MapleStory - Leviathan_131
+    21300264: PC Computer - MapleStory - Leviathan_132
+    21300266: PC Computer - MapleStory - Leviathan_133
+    21300268: PC Computer - MapleStory - Leviathan_134
+    21300270: PC Computer - MapleStory - Leviathan_135
+    21300272: PC Computer - MapleStory - Leviathan_136
+    21300274: PC Computer - MapleStory - Leviathan_137
+    21300276: PC Computer - MapleStory - Leviathan_138
+    21300278: PC Computer - MapleStory - Leviathan_139
+    21300280: PC Computer - MapleStory - Leviathan_140
+    21300282: PC Computer - MapleStory - Leviathan_141
+    21300284: PC Computer - MapleStory - Leviathan_142
+    21300286: PC Computer - MapleStory - Leviathan_143
+    21300288: PC Computer - MapleStory - Leviathan_144
+    21300290: PC Computer - MapleStory - Leviathan_145
+    21300292: PC Computer - MapleStory - Leviathan_146
+    21300294: PC Computer - MapleStory - Leviathan_147
+    21300296: PC Computer - MapleStory - Leviathan_148
+    21300298: PC Computer - MapleStory - Leviathan_149
+    21300300: PC Computer - MapleStory - Leviathan_150
+    21300302: PC Computer - MapleStory - Leviathan_151
+    21300304: PC Computer - MapleStory - Leviathan_152
+    21300306: PC Computer - MapleStory - Leviathan_153
+    21300308: PC Computer - MapleStory - Leviathan_154
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +189,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +213,2032 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2299
+        width: 214
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2299
+        width: 213
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2299
+        width: 209
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2299
+        width: 217
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2299
+        width: 213
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_5
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2299
+        width: 214
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_6
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2299
+        width: 210
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_7
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2299
+        width: 220
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2008
+        width: 214
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2009
+        width: 213
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2008
+        width: 214
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2009
+        width: 213
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2009
+        width: 210
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_13
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2009
+        width: 216
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1718
+        width: 220
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1805
+        width: 154
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1811
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1782
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1441
+        width: 214
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1601
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1442
+        width: 272
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1605
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1442
+        width: 270
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_23
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1442
+        width: 294
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_24
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1442
+        width: 287
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_25
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1442
+        width: 276
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_26
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1442
+        width: 273
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_27
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1442
+        width: 273
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_28
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1442
+        width: 273
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_29
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1442
+        width: 275
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_30
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1442
+        width: 271
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_31
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1442
+        width: 268
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_32
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 1441
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_33
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1441
+        width: 200
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_34
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 1441
+        width: 207
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1562
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1573
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_37
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1568
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1506
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_39
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1516
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1113
+        width: 216
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1364
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_42
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1114
+        width: 216
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_43
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1362
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_44
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1114
+        width: 223
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_45
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1114
+        width: 216
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_46
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1114
+        width: 246
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_47
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1114
+        width: 236
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_48
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1114
+        width: 223
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_49
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1114
+        width: 219
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_50
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1114
+        width: 216
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_51
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 1114
+        width: 216
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_52
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 1140
+        width: 302
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_53
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 1150
+        width: 287
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_54
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 1157
+        width: 280
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_55
+      rect:
+        serializedVersion: 2
+        x: 5858
+        y: 1143
+        width: 245
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1114
+        width: 214
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1331
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1331
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_59
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_60
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1316
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_61
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1114
+        width: 478
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_62
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1115
+        width: 522
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_63
+      rect:
+        serializedVersion: 2
+        x: 6131
+        y: 1113
+        width: 214
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_64
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 1113
+        width: 213
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_65
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 1113
+        width: 214
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1284
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_67
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1281
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1295
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_69
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_70
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1274
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_71
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_72
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_73
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1208
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_74
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1114
+        width: 263
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_75
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 1115
+        width: 243
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_76
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 1140
+        width: 231
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_77
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 1114
+        width: 229
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_78
+      rect:
+        serializedVersion: 2
+        x: 5156
+        y: 1114
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_79
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 930
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 930
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 930
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_82
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 930
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_83
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 927
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1017
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_85
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 984
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 930
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_87
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 930
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 934
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 927
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_90
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 569
+        width: 217
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 820
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_92
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 570
+        width: 219
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_93
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 820
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 570
+        width: 220
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_95
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 570
+        width: 226
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_96
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 570
+        width: 247
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_97
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 570
+        width: 237
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_98
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 570
+        width: 224
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_99
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 570
+        width: 218
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_100
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 570
+        width: 216
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_101
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 570
+        width: 216
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_102
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 569
+        width: 360
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 569
+        width: 214
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 787
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_105
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 786
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 783
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_107
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 569
+        width: 325
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_108
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 569
+        width: 352
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_109
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 569
+        width: 364
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_110
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 569
+        width: 344
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_111
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 569
+        width: 361
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_112
+      rect:
+        serializedVersion: 2
+        x: 4993
+        y: 569
+        width: 313
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_113
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 569
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_114
+      rect:
+        serializedVersion: 2
+        x: 5634
+        y: 569
+        width: 293
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_115
+      rect:
+        serializedVersion: 2
+        x: 5941
+        y: 569
+        width: 290
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_116
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 569
+        width: 280
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_117
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 569
+        width: 237
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_118
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 740
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_119
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 736
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_120
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 751
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_121
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 733
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_122
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 750
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_123
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 730
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_124
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 663
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_125
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 379
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_127
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 379
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_128
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 379
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_129
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 379
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_130
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 379
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_131
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 379
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_132
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 379
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_133
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 217
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_134
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 42
+        width: 217
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 42
+        width: 209
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_136
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 42
+        width: 213
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_137
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 42
+        width: 217
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_138
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 42
+        width: 220
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_139
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 42
+        width: 227
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_140
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 42
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_141
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 42
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_142
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 53
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_143
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 67
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_144
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 70
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_145
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_146
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_147
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 60
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_148
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 53
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_149
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 64
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_150
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 57
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_151
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_152
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 50
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_153
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 47
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Leviathan_154
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
