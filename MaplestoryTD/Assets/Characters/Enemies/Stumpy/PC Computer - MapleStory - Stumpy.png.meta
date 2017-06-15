@@ -1,9 +1,106 @@
 fileFormatVersion: 2
 guid: f3bbbdf50f79aa9488f40345181a2cdb
-timeCreated: 1496785241
+timeCreated: 1497563315
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Stumpy_0
+    21300002: PC Computer - MapleStory - Stumpy_1
+    21300004: PC Computer - MapleStory - Stumpy_2
+    21300006: PC Computer - MapleStory - Stumpy_3
+    21300008: PC Computer - MapleStory - Stumpy_5
+    21300010: PC Computer - MapleStory - Stumpy_7
+    21300012: PC Computer - MapleStory - Stumpy_8
+    21300014: PC Computer - MapleStory - Stumpy_9
+    21300016: PC Computer - MapleStory - Stumpy_10
+    21300018: PC Computer - MapleStory - Stumpy_12
+    21300020: PC Computer - MapleStory - Stumpy_14
+    21300022: PC Computer - MapleStory - Stumpy_16
+    21300024: PC Computer - MapleStory - Stumpy_18
+    21300026: PC Computer - MapleStory - Stumpy_19
+    21300028: PC Computer - MapleStory - Stumpy_20
+    21300030: PC Computer - MapleStory - Stumpy_21
+    21300032: PC Computer - MapleStory - Stumpy_22
+    21300034: PC Computer - MapleStory - Stumpy_23
+    21300036: PC Computer - MapleStory - Stumpy_24
+    21300038: PC Computer - MapleStory - Stumpy_25
+    21300040: PC Computer - MapleStory - Stumpy_26
+    21300042: PC Computer - MapleStory - Stumpy_27
+    21300044: PC Computer - MapleStory - Stumpy_28
+    21300046: PC Computer - MapleStory - Stumpy_29
+    21300048: PC Computer - MapleStory - Stumpy_30
+    21300050: PC Computer - MapleStory - Stumpy_31
+    21300052: PC Computer - MapleStory - Stumpy_32
+    21300054: PC Computer - MapleStory - Stumpy_33
+    21300056: PC Computer - MapleStory - Stumpy_34
+    21300058: PC Computer - MapleStory - Stumpy_35
+    21300060: PC Computer - MapleStory - Stumpy_36
+    21300062: PC Computer - MapleStory - Stumpy_37
+    21300064: PC Computer - MapleStory - Stumpy_38
+    21300066: PC Computer - MapleStory - Stumpy_39
+    21300068: PC Computer - MapleStory - Stumpy_40
+    21300070: PC Computer - MapleStory - Stumpy_41
+    21300072: PC Computer - MapleStory - Stumpy_42
+    21300074: PC Computer - MapleStory - Stumpy_43
+    21300076: PC Computer - MapleStory - Stumpy_44
+    21300078: PC Computer - MapleStory - Stumpy_45
+    21300080: PC Computer - MapleStory - Stumpy_46
+    21300082: PC Computer - MapleStory - Stumpy_47
+    21300084: PC Computer - MapleStory - Stumpy_48
+    21300086: PC Computer - MapleStory - Stumpy_49
+    21300088: PC Computer - MapleStory - Stumpy_50
+    21300090: PC Computer - MapleStory - Stumpy_51
+    21300092: PC Computer - MapleStory - Stumpy_52
+    21300094: PC Computer - MapleStory - Stumpy_53
+    21300096: PC Computer - MapleStory - Stumpy_54
+    21300098: PC Computer - MapleStory - Stumpy_55
+    21300100: PC Computer - MapleStory - Stumpy_56
+    21300102: PC Computer - MapleStory - Stumpy_57
+    21300104: PC Computer - MapleStory - Stumpy_58
+    21300106: PC Computer - MapleStory - Stumpy_59
+    21300108: PC Computer - MapleStory - Stumpy_60
+    21300110: PC Computer - MapleStory - Stumpy_61
+    21300112: PC Computer - MapleStory - Stumpy_62
+    21300114: PC Computer - MapleStory - Stumpy_63
+    21300116: PC Computer - MapleStory - Stumpy_64
+    21300118: PC Computer - MapleStory - Stumpy_65
+    21300120: PC Computer - MapleStory - Stumpy_66
+    21300122: PC Computer - MapleStory - Stumpy_67
+    21300124: PC Computer - MapleStory - Stumpy_68
+    21300126: PC Computer - MapleStory - Stumpy_69
+    21300128: PC Computer - MapleStory - Stumpy_70
+    21300130: PC Computer - MapleStory - Stumpy_71
+    21300132: PC Computer - MapleStory - Stumpy_72
+    21300134: PC Computer - MapleStory - Stumpy_73
+    21300136: PC Computer - MapleStory - Stumpy_74
+    21300138: PC Computer - MapleStory - Stumpy_75
+    21300140: PC Computer - MapleStory - Stumpy_76
+    21300142: PC Computer - MapleStory - Stumpy_77
+    21300144: PC Computer - MapleStory - Stumpy_78
+    21300146: PC Computer - MapleStory - Stumpy_79
+    21300148: PC Computer - MapleStory - Stumpy_80
+    21300150: PC Computer - MapleStory - Stumpy_81
+    21300152: PC Computer - MapleStory - Stumpy_82
+    21300154: PC Computer - MapleStory - Stumpy_83
+    21300156: PC Computer - MapleStory - Stumpy_84
+    21300158: PC Computer - MapleStory - Stumpy_85
+    21300160: PC Computer - MapleStory - Stumpy_86
+    21300162: PC Computer - MapleStory - Stumpy_87
+    21300164: PC Computer - MapleStory - Stumpy_88
+    21300166: PC Computer - MapleStory - Stumpy_89
+    21300168: PC Computer - MapleStory - Stumpy_90
+    21300170: PC Computer - MapleStory - Stumpy_91
+    21300172: PC Computer - MapleStory - Stumpy_93
+    21300174: PC Computer - MapleStory - Stumpy_97
+    21300176: PC Computer - MapleStory - Stumpy_98
+    21300178: PC Computer - MapleStory - Stumpy_99
+    21300180: PC Computer - MapleStory - Stumpy_100
+    21300182: PC Computer - MapleStory - Stumpy_101
+    21300184: PC Computer - MapleStory - Stumpy_102
+    21300186: PC Computer - MapleStory - Stumpy_103
+    21300188: PC Computer - MapleStory - Stumpy_104
+    21300190: PC Computer - MapleStory - Stumpy_105
+    21300192: PC Computer - MapleStory - Stumpy_92
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +131,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +155,1278 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1753
+        width: 185
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1753
+        width: 183
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1753
+        width: 181
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1753
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1753
+        width: 181
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_7
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1753
+        width: 182
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1528
+        width: 185
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1528
+        width: 185
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1528
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1528
+        width: 178
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1528
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_16
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1528
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1316
+        width: 183
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1372
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1372
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1379
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1350
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1073
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1073
+        width: 189
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1073
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1073
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1073
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_28
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1073
+        width: 190
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1073
+        width: 194
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_30
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1073
+        width: 186
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_31
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1073
+        width: 191
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_32
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1073
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_33
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1073
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_34
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1073
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_35
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1174
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_36
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1073
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_37
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1073
+        width: 182
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_38
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1073
+        width: 187
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_39
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1073
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_40
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 1073
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_41
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 1073
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_42
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 1170
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 912
+        width: 137
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 912
+        width: 139
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 912
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 913
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 912
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 768
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 768
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 770
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 768
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 192
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 520
+        width: 188
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 520
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_55
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 512
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_56
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 512
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_57
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 512
+        width: 191
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_58
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 512
+        width: 195
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_59
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 512
+        width: 195
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_60
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 512
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_61
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 512
+        width: 195
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_62
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 512
+        width: 195
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_63
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 512
+        width: 195
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_64
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 512
+        width: 196
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_65
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 512
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_66
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 512
+        width: 181
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_67
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 512
+        width: 174
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_68
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 610
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_69
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 512
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_70
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 512
+        width: 182
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_72
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 516
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_74
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_75
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 513
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 384
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 249
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 249
+        width: 139
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_82
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 249
+        width: 125
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_83
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 249
+        width: 106
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_84
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 249
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 15
+        width: 178
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 174
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_88
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 15
+        width: 173
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_89
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 15
+        width: 181
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_90
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 15
+        width: 185
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_91
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 15
+        width: 183
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_93
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 15
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_97
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 16
+        width: 177
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_98
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 115
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_99
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 117
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_100
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 40
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_101
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 57
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_102
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 40
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_103
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 58
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_104
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 16
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_105
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 16
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stumpy_92
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 4
+        width: 194
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

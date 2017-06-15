@@ -1,9 +1,295 @@
 fileFormatVersion: 2
 guid: 668fa59cc2ecea4488988eecf600a15d
-timeCreated: 1496785212
+timeCreated: 1497562978
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Slimes_0
+    21300002: PC Computer - MapleStory - Slimes_1
+    21300004: PC Computer - MapleStory - Slimes_2
+    21300006: PC Computer - MapleStory - Slimes_3
+    21300008: PC Computer - MapleStory - Slimes_4
+    21300010: PC Computer - MapleStory - Slimes_5
+    21300012: PC Computer - MapleStory - Slimes_6
+    21300014: PC Computer - MapleStory - Slimes_7
+    21300016: PC Computer - MapleStory - Slimes_8
+    21300018: PC Computer - MapleStory - Slimes_9
+    21300020: PC Computer - MapleStory - Slimes_10
+    21300022: PC Computer - MapleStory - Slimes_12
+    21300024: PC Computer - MapleStory - Slimes_13
+    21300026: PC Computer - MapleStory - Slimes_14
+    21300028: PC Computer - MapleStory - Slimes_15
+    21300030: PC Computer - MapleStory - Slimes_16
+    21300032: PC Computer - MapleStory - Slimes_17
+    21300034: PC Computer - MapleStory - Slimes_18
+    21300036: PC Computer - MapleStory - Slimes_19
+    21300038: PC Computer - MapleStory - Slimes_20
+    21300040: PC Computer - MapleStory - Slimes_21
+    21300042: PC Computer - MapleStory - Slimes_22
+    21300044: PC Computer - MapleStory - Slimes_23
+    21300046: PC Computer - MapleStory - Slimes_24
+    21300048: PC Computer - MapleStory - Slimes_25
+    21300050: PC Computer - MapleStory - Slimes_26
+    21300052: PC Computer - MapleStory - Slimes_27
+    21300054: PC Computer - MapleStory - Slimes_29
+    21300056: PC Computer - MapleStory - Slimes_30
+    21300058: PC Computer - MapleStory - Slimes_31
+    21300060: PC Computer - MapleStory - Slimes_32
+    21300062: PC Computer - MapleStory - Slimes_34
+    21300064: PC Computer - MapleStory - Slimes_35
+    21300066: PC Computer - MapleStory - Slimes_36
+    21300068: PC Computer - MapleStory - Slimes_37
+    21300070: PC Computer - MapleStory - Slimes_38
+    21300072: PC Computer - MapleStory - Slimes_39
+    21300074: PC Computer - MapleStory - Slimes_40
+    21300076: PC Computer - MapleStory - Slimes_41
+    21300078: PC Computer - MapleStory - Slimes_42
+    21300080: PC Computer - MapleStory - Slimes_43
+    21300082: PC Computer - MapleStory - Slimes_45
+    21300084: PC Computer - MapleStory - Slimes_46
+    21300086: PC Computer - MapleStory - Slimes_47
+    21300088: PC Computer - MapleStory - Slimes_48
+    21300090: PC Computer - MapleStory - Slimes_50
+    21300092: PC Computer - MapleStory - Slimes_51
+    21300094: PC Computer - MapleStory - Slimes_52
+    21300096: PC Computer - MapleStory - Slimes_53
+    21300098: PC Computer - MapleStory - Slimes_54
+    21300100: PC Computer - MapleStory - Slimes_55
+    21300102: PC Computer - MapleStory - Slimes_56
+    21300104: PC Computer - MapleStory - Slimes_57
+    21300106: PC Computer - MapleStory - Slimes_58
+    21300108: PC Computer - MapleStory - Slimes_59
+    21300110: PC Computer - MapleStory - Slimes_61
+    21300112: PC Computer - MapleStory - Slimes_62
+    21300114: PC Computer - MapleStory - Slimes_63
+    21300116: PC Computer - MapleStory - Slimes_64
+    21300118: PC Computer - MapleStory - Slimes_66
+    21300120: PC Computer - MapleStory - Slimes_67
+    21300122: PC Computer - MapleStory - Slimes_68
+    21300124: PC Computer - MapleStory - Slimes_69
+    21300126: PC Computer - MapleStory - Slimes_70
+    21300128: PC Computer - MapleStory - Slimes_71
+    21300130: PC Computer - MapleStory - Slimes_72
+    21300132: PC Computer - MapleStory - Slimes_73
+    21300134: PC Computer - MapleStory - Slimes_74
+    21300136: PC Computer - MapleStory - Slimes_75
+    21300138: PC Computer - MapleStory - Slimes_77
+    21300140: PC Computer - MapleStory - Slimes_78
+    21300142: PC Computer - MapleStory - Slimes_79
+    21300144: PC Computer - MapleStory - Slimes_80
+    21300146: PC Computer - MapleStory - Slimes_81
+    21300148: PC Computer - MapleStory - Slimes_82
+    21300150: PC Computer - MapleStory - Slimes_83
+    21300152: PC Computer - MapleStory - Slimes_85
+    21300154: PC Computer - MapleStory - Slimes_86
+    21300156: PC Computer - MapleStory - Slimes_87
+    21300158: PC Computer - MapleStory - Slimes_88
+    21300160: PC Computer - MapleStory - Slimes_89
+    21300162: PC Computer - MapleStory - Slimes_90
+    21300164: PC Computer - MapleStory - Slimes_91
+    21300166: PC Computer - MapleStory - Slimes_92
+    21300168: PC Computer - MapleStory - Slimes_93
+    21300170: PC Computer - MapleStory - Slimes_94
+    21300172: PC Computer - MapleStory - Slimes_95
+    21300174: PC Computer - MapleStory - Slimes_96
+    21300176: PC Computer - MapleStory - Slimes_97
+    21300178: PC Computer - MapleStory - Slimes_98
+    21300180: PC Computer - MapleStory - Slimes_99
+    21300182: PC Computer - MapleStory - Slimes_100
+    21300184: PC Computer - MapleStory - Slimes_101
+    21300186: PC Computer - MapleStory - Slimes_103
+    21300188: PC Computer - MapleStory - Slimes_104
+    21300190: PC Computer - MapleStory - Slimes_105
+    21300192: PC Computer - MapleStory - Slimes_106
+    21300194: PC Computer - MapleStory - Slimes_107
+    21300196: PC Computer - MapleStory - Slimes_108
+    21300198: PC Computer - MapleStory - Slimes_109
+    21300200: PC Computer - MapleStory - Slimes_110
+    21300202: PC Computer - MapleStory - Slimes_111
+    21300204: PC Computer - MapleStory - Slimes_112
+    21300206: PC Computer - MapleStory - Slimes_113
+    21300208: PC Computer - MapleStory - Slimes_114
+    21300210: PC Computer - MapleStory - Slimes_115
+    21300212: PC Computer - MapleStory - Slimes_116
+    21300214: PC Computer - MapleStory - Slimes_118
+    21300216: PC Computer - MapleStory - Slimes_119
+    21300218: PC Computer - MapleStory - Slimes_120
+    21300220: PC Computer - MapleStory - Slimes_121
+    21300222: PC Computer - MapleStory - Slimes_122
+    21300224: PC Computer - MapleStory - Slimes_123
+    21300226: PC Computer - MapleStory - Slimes_124
+    21300228: PC Computer - MapleStory - Slimes_125
+    21300230: PC Computer - MapleStory - Slimes_126
+    21300232: PC Computer - MapleStory - Slimes_127
+    21300234: PC Computer - MapleStory - Slimes_128
+    21300236: PC Computer - MapleStory - Slimes_129
+    21300238: PC Computer - MapleStory - Slimes_130
+    21300240: PC Computer - MapleStory - Slimes_131
+    21300242: PC Computer - MapleStory - Slimes_132
+    21300244: PC Computer - MapleStory - Slimes_133
+    21300246: PC Computer - MapleStory - Slimes_134
+    21300248: PC Computer - MapleStory - Slimes_135
+    21300250: PC Computer - MapleStory - Slimes_136
+    21300252: PC Computer - MapleStory - Slimes_137
+    21300254: PC Computer - MapleStory - Slimes_138
+    21300256: PC Computer - MapleStory - Slimes_139
+    21300258: PC Computer - MapleStory - Slimes_140
+    21300260: PC Computer - MapleStory - Slimes_141
+    21300262: PC Computer - MapleStory - Slimes_142
+    21300264: PC Computer - MapleStory - Slimes_143
+    21300266: PC Computer - MapleStory - Slimes_144
+    21300268: PC Computer - MapleStory - Slimes_145
+    21300270: PC Computer - MapleStory - Slimes_146
+    21300272: PC Computer - MapleStory - Slimes_147
+    21300274: PC Computer - MapleStory - Slimes_148
+    21300276: PC Computer - MapleStory - Slimes_149
+    21300278: PC Computer - MapleStory - Slimes_150
+    21300280: PC Computer - MapleStory - Slimes_151
+    21300282: PC Computer - MapleStory - Slimes_152
+    21300284: PC Computer - MapleStory - Slimes_153
+    21300286: PC Computer - MapleStory - Slimes_154
+    21300288: PC Computer - MapleStory - Slimes_156
+    21300290: PC Computer - MapleStory - Slimes_157
+    21300292: PC Computer - MapleStory - Slimes_158
+    21300294: PC Computer - MapleStory - Slimes_159
+    21300296: PC Computer - MapleStory - Slimes_160
+    21300298: PC Computer - MapleStory - Slimes_161
+    21300300: PC Computer - MapleStory - Slimes_162
+    21300302: PC Computer - MapleStory - Slimes_163
+    21300304: PC Computer - MapleStory - Slimes_164
+    21300306: PC Computer - MapleStory - Slimes_165
+    21300308: PC Computer - MapleStory - Slimes_166
+    21300310: PC Computer - MapleStory - Slimes_167
+    21300312: PC Computer - MapleStory - Slimes_168
+    21300314: PC Computer - MapleStory - Slimes_169
+    21300316: PC Computer - MapleStory - Slimes_170
+    21300318: PC Computer - MapleStory - Slimes_171
+    21300320: PC Computer - MapleStory - Slimes_172
+    21300322: PC Computer - MapleStory - Slimes_173
+    21300324: PC Computer - MapleStory - Slimes_175
+    21300326: PC Computer - MapleStory - Slimes_176
+    21300328: PC Computer - MapleStory - Slimes_177
+    21300330: PC Computer - MapleStory - Slimes_178
+    21300332: PC Computer - MapleStory - Slimes_179
+    21300334: PC Computer - MapleStory - Slimes_180
+    21300336: PC Computer - MapleStory - Slimes_181
+    21300338: PC Computer - MapleStory - Slimes_182
+    21300340: PC Computer - MapleStory - Slimes_183
+    21300342: PC Computer - MapleStory - Slimes_184
+    21300344: PC Computer - MapleStory - Slimes_185
+    21300346: PC Computer - MapleStory - Slimes_186
+    21300348: PC Computer - MapleStory - Slimes_187
+    21300350: PC Computer - MapleStory - Slimes_188
+    21300352: PC Computer - MapleStory - Slimes_189
+    21300354: PC Computer - MapleStory - Slimes_190
+    21300356: PC Computer - MapleStory - Slimes_191
+    21300358: PC Computer - MapleStory - Slimes_192
+    21300360: PC Computer - MapleStory - Slimes_194
+    21300362: PC Computer - MapleStory - Slimes_195
+    21300364: PC Computer - MapleStory - Slimes_196
+    21300366: PC Computer - MapleStory - Slimes_197
+    21300368: PC Computer - MapleStory - Slimes_198
+    21300370: PC Computer - MapleStory - Slimes_199
+    21300372: PC Computer - MapleStory - Slimes_200
+    21300374: PC Computer - MapleStory - Slimes_201
+    21300376: PC Computer - MapleStory - Slimes_202
+    21300378: PC Computer - MapleStory - Slimes_203
+    21300380: PC Computer - MapleStory - Slimes_204
+    21300382: PC Computer - MapleStory - Slimes_205
+    21300384: PC Computer - MapleStory - Slimes_206
+    21300386: PC Computer - MapleStory - Slimes_207
+    21300388: PC Computer - MapleStory - Slimes_208
+    21300390: PC Computer - MapleStory - Slimes_209
+    21300392: PC Computer - MapleStory - Slimes_210
+    21300394: PC Computer - MapleStory - Slimes_211
+    21300396: PC Computer - MapleStory - Slimes_213
+    21300398: PC Computer - MapleStory - Slimes_214
+    21300400: PC Computer - MapleStory - Slimes_215
+    21300402: PC Computer - MapleStory - Slimes_216
+    21300404: PC Computer - MapleStory - Slimes_217
+    21300406: PC Computer - MapleStory - Slimes_218
+    21300408: PC Computer - MapleStory - Slimes_219
+    21300410: PC Computer - MapleStory - Slimes_220
+    21300412: PC Computer - MapleStory - Slimes_222
+    21300414: PC Computer - MapleStory - Slimes_223
+    21300416: PC Computer - MapleStory - Slimes_224
+    21300418: PC Computer - MapleStory - Slimes_225
+    21300420: PC Computer - MapleStory - Slimes_226
+    21300422: PC Computer - MapleStory - Slimes_227
+    21300424: PC Computer - MapleStory - Slimes_228
+    21300426: PC Computer - MapleStory - Slimes_230
+    21300428: PC Computer - MapleStory - Slimes_231
+    21300430: PC Computer - MapleStory - Slimes_232
+    21300432: PC Computer - MapleStory - Slimes_233
+    21300434: PC Computer - MapleStory - Slimes_234
+    21300436: PC Computer - MapleStory - Slimes_235
+    21300438: PC Computer - MapleStory - Slimes_236
+    21300440: PC Computer - MapleStory - Slimes_237
+    21300442: PC Computer - MapleStory - Slimes_238
+    21300444: PC Computer - MapleStory - Slimes_239
+    21300446: PC Computer - MapleStory - Slimes_240
+    21300448: PC Computer - MapleStory - Slimes_241
+    21300450: PC Computer - MapleStory - Slimes_242
+    21300452: PC Computer - MapleStory - Slimes_243
+    21300454: PC Computer - MapleStory - Slimes_244
+    21300456: PC Computer - MapleStory - Slimes_245
+    21300458: PC Computer - MapleStory - Slimes_246
+    21300460: PC Computer - MapleStory - Slimes_248
+    21300462: PC Computer - MapleStory - Slimes_250
+    21300464: PC Computer - MapleStory - Slimes_251
+    21300466: PC Computer - MapleStory - Slimes_252
+    21300468: PC Computer - MapleStory - Slimes_253
+    21300470: PC Computer - MapleStory - Slimes_254
+    21300472: PC Computer - MapleStory - Slimes_255
+    21300474: PC Computer - MapleStory - Slimes_256
+    21300476: PC Computer - MapleStory - Slimes_257
+    21300478: PC Computer - MapleStory - Slimes_258
+    21300480: PC Computer - MapleStory - Slimes_259
+    21300482: PC Computer - MapleStory - Slimes_260
+    21300484: PC Computer - MapleStory - Slimes_261
+    21300486: PC Computer - MapleStory - Slimes_262
+    21300488: PC Computer - MapleStory - Slimes_263
+    21300490: PC Computer - MapleStory - Slimes_264
+    21300492: PC Computer - MapleStory - Slimes_265
+    21300494: PC Computer - MapleStory - Slimes_266
+    21300496: PC Computer - MapleStory - Slimes_267
+    21300498: PC Computer - MapleStory - Slimes_268
+    21300500: PC Computer - MapleStory - Slimes_269
+    21300502: PC Computer - MapleStory - Slimes_270
+    21300504: PC Computer - MapleStory - Slimes_271
+    21300506: PC Computer - MapleStory - Slimes_272
+    21300508: PC Computer - MapleStory - Slimes_273
+    21300510: PC Computer - MapleStory - Slimes_274
+    21300512: PC Computer - MapleStory - Slimes_275
+    21300514: PC Computer - MapleStory - Slimes_11
+    21300516: PC Computer - MapleStory - Slimes_49
+    21300518: PC Computer - MapleStory - Slimes_33
+    21300520: PC Computer - MapleStory - Slimes_276
+    21300522: PC Computer - MapleStory - Slimes_65
+    21300524: PC Computer - MapleStory - Slimes_277
+    21300526: PC Computer - MapleStory - Slimes_84
+    21300528: PC Computer - MapleStory - Slimes_102
+    21300530: PC Computer - MapleStory - Slimes_117
+    21300532: PC Computer - MapleStory - Slimes_155
+    21300534: PC Computer - MapleStory - Slimes_174
+    21300536: PC Computer - MapleStory - Slimes_193
+    21300538: PC Computer - MapleStory - Slimes_28
+    21300540: PC Computer - MapleStory - Slimes_212
+    21300542: PC Computer - MapleStory - Slimes_229
+    21300544: PC Computer - MapleStory - Slimes_44
+    21300546: PC Computer - MapleStory - Slimes_247
+    21300548: PC Computer - MapleStory - Slimes_249
+    21300550: PC Computer - MapleStory - Slimes_60
+    21300552: PC Computer - MapleStory - Slimes_278
+    21300554: PC Computer - MapleStory - Slimes_279
+    21300556: PC Computer - MapleStory - Slimes_76
+    21300558: PC Computer - MapleStory - Slimes_280
+    21300560: PC Computer - MapleStory - Slimes_281
+    21300562: PC Computer - MapleStory - Slimes_221
+    21300564: PC Computer - MapleStory - Slimes_282
+    21300566: PC Computer - MapleStory - Slimes_283
+    21300568: PC Computer - MapleStory - Slimes_284
+    21300570: PC Computer - MapleStory - Slimes_285
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +320,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +344,3735 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4154
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4095
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4095
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4095
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4020
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4020
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4020
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4020
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4018
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4020
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4020
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3957
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3950
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3944
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3869
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3869
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3869
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3869
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3869
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3780
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3778
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3770
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3768
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3764
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3757
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3751
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3725
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3593
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_30
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3593
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3593
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3593
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_34
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3589
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3530
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3517
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3442
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3442
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3442
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3442
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3442
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3428
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3294
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3294
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3294
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3294
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3290
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3231
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3143
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3143
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3143
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3143
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3143
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3129
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2995
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_62
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2995
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2995
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_64
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2995
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2991
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2932
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2926
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2919
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2844
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2844
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2844
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2844
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2844
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2828
+        width: 161
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_77
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2696
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2696
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2696
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_80
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2696
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2696
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2695
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_83
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2692
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2625
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2545
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2545
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2545
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_89
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2545
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_90
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2545
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2531
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2472
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2472
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2472
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_95
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2397
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2397
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2397
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2397
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_99
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2396
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_100
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2397
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_101
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2397
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2334
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_104
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2246
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2246
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_108
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2246
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2246
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_110
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2246
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_113
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2098
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_114
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2098
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2098
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_116
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2098
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_118
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2094
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2035
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_120
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_122
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1980
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_123
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1972
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_124
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1960
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1949
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_126
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1955
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_127
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1946
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_128
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1950
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_129
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1874
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_130
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_131
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_132
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1921
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_133
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1933
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_134
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1923
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_135
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_136
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1833
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1903
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_138
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1908
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1833
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_141
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1833
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_142
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1892
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_143
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1833
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_144
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1850
+        width: 205
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1762
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1762
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_147
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1762
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_148
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1687
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_149
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1687
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1687
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_151
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1687
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1687
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_153
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1687
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_154
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1687
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1624
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1612
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_158
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1537
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1537
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_160
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1537
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1537
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_162
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1537
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1461
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1461
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_166
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1461
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_167
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1386
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_168
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1386
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_169
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1386
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_170
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1386
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1386
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_172
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1385
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_173
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1386
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_175
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1323
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_176
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1311
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_177
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1236
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1236
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_179
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1236
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_180
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1236
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_181
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1236
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_183
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1160
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1160
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1160
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_186
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1085
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_187
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1085
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_188
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1085
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_189
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1085
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1085
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_191
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1085
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_192
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1085
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_194
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1022
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_195
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1010
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_196
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 935
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 935
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_198
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 935
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_199
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 935
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_200
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 935
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 86
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_202
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 857
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 857
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_204
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 857
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_205
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 782
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_206
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 782
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_207
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 782
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 782
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_209
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 779
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_210
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 782
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_211
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 782
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 717
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_214
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 706
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_215
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 631
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_216
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 631
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_217
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 631
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_218
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 631
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_219
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 631
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 86
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_222
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 477
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_223
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 477
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_224
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 477
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_225
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 477
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 477
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_227
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 477
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_228
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 475
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_230
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 414
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_231
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_232
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 314
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_233
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 314
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_234
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 314
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_235
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 314
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_236
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 314
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_237
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 314
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_238
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 314
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_240
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 247
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_241
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 247
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_242
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_243
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 247
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_244
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 247
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_245
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_246
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 206
+        width: 280
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_248
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 176
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_250
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 176
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_251
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 88
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_252
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_253
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_254
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 89
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_255
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 89
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_256
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 89
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_257
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 89
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_258
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 89
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_259
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 90
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_260
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 90
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_261
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 91
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_262
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 121
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_263
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 111
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_265
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_266
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_267
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_268
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_269
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_270
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_271
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_272
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_273
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_274
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_275
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3294
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3294
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3591
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_276
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3591
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_65
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2994
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_277
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2992
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2099
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_102
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2099
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 177
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_155
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_174
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 177
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_193
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 177
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3669
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_212
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3667
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3669
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3368
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_247
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3370
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_249
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3369
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3068
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_278
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3070
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_279
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3070
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2771
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_280
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2772
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_281
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2772
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_221
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 556
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_282
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 553
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_283
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 556
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2173
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_284
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2173
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Slimes_285
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2173
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

@@ -1,9 +1,104 @@
 fileFormatVersion: 2
 guid: bc5cc0f5b3134304483e2ef62166c762
-timeCreated: 1496785229
+timeCreated: 1497563158
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Stone Golem_0
+    21300002: PC Computer - MapleStory - Stone Golem_1
+    21300004: PC Computer - MapleStory - Stone Golem_2
+    21300006: PC Computer - MapleStory - Stone Golem_3
+    21300008: PC Computer - MapleStory - Stone Golem_4
+    21300010: PC Computer - MapleStory - Stone Golem_5
+    21300012: PC Computer - MapleStory - Stone Golem_6
+    21300014: PC Computer - MapleStory - Stone Golem_7
+    21300016: PC Computer - MapleStory - Stone Golem_8
+    21300018: PC Computer - MapleStory - Stone Golem_9
+    21300020: PC Computer - MapleStory - Stone Golem_10
+    21300022: PC Computer - MapleStory - Stone Golem_11
+    21300024: PC Computer - MapleStory - Stone Golem_12
+    21300026: PC Computer - MapleStory - Stone Golem_13
+    21300028: PC Computer - MapleStory - Stone Golem_14
+    21300030: PC Computer - MapleStory - Stone Golem_16
+    21300032: PC Computer - MapleStory - Stone Golem_20
+    21300034: PC Computer - MapleStory - Stone Golem_23
+    21300036: PC Computer - MapleStory - Stone Golem_26
+    21300038: PC Computer - MapleStory - Stone Golem_30
+    21300040: PC Computer - MapleStory - Stone Golem_31
+    21300042: PC Computer - MapleStory - Stone Golem_32
+    21300044: PC Computer - MapleStory - Stone Golem_33
+    21300046: PC Computer - MapleStory - Stone Golem_35
+    21300048: PC Computer - MapleStory - Stone Golem_36
+    21300050: PC Computer - MapleStory - Stone Golem_37
+    21300052: PC Computer - MapleStory - Stone Golem_38
+    21300054: PC Computer - MapleStory - Stone Golem_39
+    21300056: PC Computer - MapleStory - Stone Golem_40
+    21300058: PC Computer - MapleStory - Stone Golem_43
+    21300060: PC Computer - MapleStory - Stone Golem_44
+    21300062: PC Computer - MapleStory - Stone Golem_45
+    21300064: PC Computer - MapleStory - Stone Golem_46
+    21300066: PC Computer - MapleStory - Stone Golem_47
+    21300068: PC Computer - MapleStory - Stone Golem_48
+    21300070: PC Computer - MapleStory - Stone Golem_49
+    21300072: PC Computer - MapleStory - Stone Golem_50
+    21300074: PC Computer - MapleStory - Stone Golem_51
+    21300076: PC Computer - MapleStory - Stone Golem_52
+    21300078: PC Computer - MapleStory - Stone Golem_53
+    21300080: PC Computer - MapleStory - Stone Golem_54
+    21300082: PC Computer - MapleStory - Stone Golem_55
+    21300084: PC Computer - MapleStory - Stone Golem_56
+    21300086: PC Computer - MapleStory - Stone Golem_57
+    21300088: PC Computer - MapleStory - Stone Golem_58
+    21300090: PC Computer - MapleStory - Stone Golem_59
+    21300092: PC Computer - MapleStory - Stone Golem_60
+    21300094: PC Computer - MapleStory - Stone Golem_61
+    21300096: PC Computer - MapleStory - Stone Golem_62
+    21300098: PC Computer - MapleStory - Stone Golem_63
+    21300100: PC Computer - MapleStory - Stone Golem_64
+    21300102: PC Computer - MapleStory - Stone Golem_65
+    21300104: PC Computer - MapleStory - Stone Golem_66
+    21300106: PC Computer - MapleStory - Stone Golem_67
+    21300108: PC Computer - MapleStory - Stone Golem_68
+    21300110: PC Computer - MapleStory - Stone Golem_69
+    21300112: PC Computer - MapleStory - Stone Golem_70
+    21300114: PC Computer - MapleStory - Stone Golem_71
+    21300116: PC Computer - MapleStory - Stone Golem_72
+    21300118: PC Computer - MapleStory - Stone Golem_73
+    21300120: PC Computer - MapleStory - Stone Golem_74
+    21300122: PC Computer - MapleStory - Stone Golem_75
+    21300124: PC Computer - MapleStory - Stone Golem_76
+    21300126: PC Computer - MapleStory - Stone Golem_77
+    21300128: PC Computer - MapleStory - Stone Golem_78
+    21300130: PC Computer - MapleStory - Stone Golem_79
+    21300132: PC Computer - MapleStory - Stone Golem_80
+    21300134: PC Computer - MapleStory - Stone Golem_81
+    21300136: PC Computer - MapleStory - Stone Golem_82
+    21300138: PC Computer - MapleStory - Stone Golem_83
+    21300140: PC Computer - MapleStory - Stone Golem_84
+    21300142: PC Computer - MapleStory - Stone Golem_85
+    21300144: PC Computer - MapleStory - Stone Golem_86
+    21300146: PC Computer - MapleStory - Stone Golem_87
+    21300148: PC Computer - MapleStory - Stone Golem_88
+    21300150: PC Computer - MapleStory - Stone Golem_89
+    21300152: PC Computer - MapleStory - Stone Golem_90
+    21300154: PC Computer - MapleStory - Stone Golem_91
+    21300156: PC Computer - MapleStory - Stone Golem_92
+    21300158: PC Computer - MapleStory - Stone Golem_93
+    21300160: PC Computer - MapleStory - Stone Golem_94
+    21300162: PC Computer - MapleStory - Stone Golem_95
+    21300164: PC Computer - MapleStory - Stone Golem_96
+    21300166: PC Computer - MapleStory - Stone Golem_97
+    21300168: PC Computer - MapleStory - Stone Golem_98
+    21300170: PC Computer - MapleStory - Stone Golem_99
+    21300172: PC Computer - MapleStory - Stone Golem_101
+    21300174: PC Computer - MapleStory - Stone Golem_102
+    21300176: PC Computer - MapleStory - Stone Golem_105
+    21300178: PC Computer - MapleStory - Stone Golem_106
+    21300180: PC Computer - MapleStory - Stone Golem_107
+    21300182: PC Computer - MapleStory - Stone Golem_108
+    21300184: PC Computer - MapleStory - Stone Golem_109
+    21300186: PC Computer - MapleStory - Stone Golem_110
+    21300188: PC Computer - MapleStory - Stone Golem_15
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +129,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +153,1252 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 814
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 842
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 814
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 815
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 842
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 815
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 816
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 842
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 816
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 810
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 810
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 810
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 810
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 810
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 810
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 624
+        width: 178
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 621
+        width: 178
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 634
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 630
+        width: 165
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 553
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 261
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 538
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 491
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 511
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 500
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 500
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 503
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 500
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 503
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 484
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 484
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 484
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 484
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 484
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_49
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 463
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_58
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_59
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_60
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_61
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_62
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_63
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_65
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_66
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_67
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_68
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_69
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 260
+        width: 165
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_70
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_71
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_72
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_73
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_74
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_75
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_76
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_77
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 232
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_78
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 260
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_79
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 232
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_84
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_85
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_86
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_87
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_88
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_89
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_90
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_91
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_92
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_93
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_94
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_95
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_96
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_97
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_98
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 228
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_99
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 228
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 173
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 196
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_105
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 12
+        width: 225
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_106
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 22
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_107
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 15
+        width: 215
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_108
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 15
+        width: 215
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_109
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 15
+        width: 215
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_110
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 15
+        width: 215
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Stone Golem_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 251
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
