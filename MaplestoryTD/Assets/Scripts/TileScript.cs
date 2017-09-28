@@ -6,6 +6,7 @@ public class TileScript : MonoBehaviour
 {
     public Point GridPos { get; private set; }
 
+    //public Color startColor;
     //return center
     public Vector2 WorldPos
     {
@@ -23,5 +24,19 @@ public class TileScript : MonoBehaviour
 
         //add new tiles to Dictionary so we can access each tile by x y position
         LevelManager.Instance.Tiles.Add(gridPos, this);
+    }
+
+    private void OnMouseOver()
+    {
+        if(Input.GetMouseButtonDown(0))
+        {
+            PlaceTower();
+        } 
+    }
+
+    private void PlaceTower()
+    {
+        Instantiate(GameManager.Instance.TowerPrefab, transform.position, Quaternion.identity);
+        Debug.Log("Placing Tower");
     }
 }
