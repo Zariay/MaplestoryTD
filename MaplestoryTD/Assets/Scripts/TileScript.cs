@@ -36,7 +36,8 @@ public class TileScript : MonoBehaviour
 
     private void PlaceTower()
     {
-        Instantiate(GameManager.Instance.TowerPrefab, transform.position, Quaternion.identity);
-        Debug.Log("Placing Tower");
+       GameObject tower = (GameObject)Instantiate(GameManager.Instance.TowerPrefab, transform.position, Quaternion.identity);
+       tower.GetComponent<SpriteRenderer>().sortingOrder = GridPos.Y;
+       tower.transform.SetParent(transform);
     }
 }
