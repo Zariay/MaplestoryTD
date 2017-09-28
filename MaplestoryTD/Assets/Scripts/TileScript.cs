@@ -14,21 +14,14 @@ public class TileScript : MonoBehaviour
             return new Vector2(transform.position.x + (GetComponent<SpriteRenderer>().bounds.size.x / 2), transform.position.y - (GetComponent<SpriteRenderer>().bounds.size.y / 2));
         }
     }
-    // Use this for initialization
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-    public void SetGridPosition(Point gridPos, Vector3 worldPos)
+    public void SetGridPosition(Point gridPos, Vector3 worldPos, Transform parent)
     {
         this.GridPos = gridPos;
         transform.position = worldPos;
+        transform.SetParent(parent);
+
+        //add new tiles to Dictionary so we can access each tile by x y position
+        LevelManager.Instance.Tiles.Add(gridPos, this);
     }
 }

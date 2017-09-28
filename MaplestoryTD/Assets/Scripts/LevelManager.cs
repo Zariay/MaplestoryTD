@@ -3,13 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class LevelManager : MonoBehaviour
+public class LevelManager : Singleton<LevelManager>
 {
     [SerializeField]
     private GameObject[] tilePrefab;
 
     [SerializeField]
     private CameraMovement cameraMovement;
+
+    [SerializeField]
+    private Transform map;
 
     private Point startPortal, endPortal;
 
@@ -79,10 +82,9 @@ public class LevelManager : MonoBehaviour
         TileScript newTile = Instantiate(tilePrefab[tileIndex]).GetComponent<TileScript>();
 
         //uses new tile variable to change position of tile
-        newTile.SetGridPosition(new Point(x, y), new Vector3(WorldStart.x + (TileSize * x), WorldStart.y - (TileSize * y), 0));
+        newTile.SetGridPosition(new Point(x, y), new Vector3(WorldStart.x + (TileSize * x), WorldStart.y - (TileSize * y), 0), map);
 
-        //add new tiles to Dictionary so we can access each tile by x y position
-        Tiles.Add(new Point(x, y), newTile);
+
     }
 
     //read text doc
