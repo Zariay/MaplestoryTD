@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class GameManager : Singleton<GameManager>
 {
-    //temporary prefab. Will be replaced later
-    [SerializeField]
-    private GameObject towerPrefab;
+    public TowerButton clickedBtn { get; private set; }
 
-    public GameObject TowerPrefab
+    public void PickTower(TowerButton towerBtn)
     {
-        get
-        {
-            return towerPrefab;
-        }
+        this.clickedBtn = towerBtn;
+        Hover.Instance.Activate(towerBtn.Sprite);
+    }
+
+    public void BuyTower()
+    {
+        clickedBtn = null;
     }
 }

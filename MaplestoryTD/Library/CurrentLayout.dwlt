@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 492}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 132
+  controlID: 13
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 47
+  controlID: 14
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +152,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 846
     y: 0
-    width: 290
+    width: 289
     height: 947
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -175,9 +175,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1136
+    x: 1135
     y: 0
-    width: 390
+    width: 391
     height: 947
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
@@ -261,8 +261,8 @@ MonoBehaviour:
     y: 485
     width: 846
     height: 462
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 24}
@@ -297,7 +297,7 @@ MonoBehaviour:
     height: 464
   m_ResetOnNextRepaint: 1
   m_IgnoreNextPostprocessEvent: 0
-  m_SelectedAssetPath: Assets/Art/portal-start.png
+  m_SelectedAssetPath: Assets/Characters/Mage/beginner_mage_standing03.png
   m_Selected:
     m_Name: 
     m_OriginalName: 
@@ -338,7 +338,7 @@ MonoBehaviour:
     width: 945
     height: 433
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 82af297dd197c0b40bceea2434860227,
+  m_AnimatorController: {fileID: 9100000, guid: 2465e10bd3249684897a6eb63fe412d1,
     type: 2}
 --- !u!114 &14
 MonoBehaviour:
@@ -458,8 +458,12 @@ MonoBehaviour:
     - {x: 365.00003, y: 126.20001}
     - {x: 509.80002, y: 253.6}
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 0}
-  m_BreadCrumbs: []
+  m_AnimatorController: {fileID: 9100000, guid: 2465e10bd3249684897a6eb63fe412d1,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 1107365012590357644, guid: 2465e10bd3249684897a6eb63fe412d1,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -580,13 +584,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 848
     y: 92
-    width: 286
+    width: 285
     height: 926
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    m_ExpandedIDs: ee84fcff5285fcff9685fcff44a9fcff0cadfcff0af8ffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,9 +668,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1138
+    x: 1137
     y: 92
-    width: 386
+    width: 387
     height: 926
   m_SearchFilter:
     m_NameFilter: 
@@ -679,19 +683,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefab
+    - Assets/Characters/Mage
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefab
+  - Assets/Characters/Mage
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\alexs\OneDrive\Documents\GitHub\MaplestoryTD\MaplestoryTD
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92280000
-    m_LastClickedID: 10386
-    m_ExpandedIDs: 00000000c224000000ca9a3bffffff7f
+    m_SelectedIDs: 02300000
+    m_LastClickedID: 12290
+    m_ExpandedIDs: 00000000c2240000c2250000922800002a300000ec45000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -746,8 +750,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 0000000042400000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 4240000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -877,14 +881,14 @@ MonoBehaviour:
     width: 844
     height: 464
   m_SceneLighting: 1
-  lastFramingTime: 12362.551108095357
+  lastFramingTime: 19938.892357765315
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.864502, y: 0.40677887, z: 0}
+    m_Target: {x: 804, y: 280, z: 0}
     speed: 2
-    m_Value: {x: -4.864502, y: 0.40677887, z: 0}
+    m_Value: {x: 804, y: 280, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -911,9 +915,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.230846
+    m_Target: 744.2621
     speed: 2
-    m_Value: 11.230846
+    m_Value: 744.2621
   m_Ortho:
     m_Target: 1
     speed: 2
