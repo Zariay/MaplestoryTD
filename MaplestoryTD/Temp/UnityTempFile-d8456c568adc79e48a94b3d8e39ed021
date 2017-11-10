@@ -87,6 +87,7 @@
 -define:UNITY_TEAM_LICENSE
 Assets/Scripts/CameraMovement.cs
 Assets/Scripts/GameManager.cs
+Assets/Scripts/Hover.cs
 Assets/Scripts/LevelManager.cs
 Assets/Scripts/MouseOver.cs
 Assets/Scripts/Point.cs

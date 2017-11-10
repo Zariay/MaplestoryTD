@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TowerButton : MonoBehaviour
 {
@@ -9,6 +10,12 @@ public class TowerButton : MonoBehaviour
 
     [SerializeField]
     private Sprite sprite;
+
+    [SerializeField]
+    private int price;
+
+    [SerializeField]
+    private Text priceText;
 
     public GameObject TowerPrefab
     {
@@ -25,5 +32,18 @@ public class TowerButton : MonoBehaviour
             return sprite;
         }
         
+    }
+
+    public int Price
+    {
+        get
+        {
+            return price;
+        }
+    }
+
+    private void Start()
+    {
+        priceText.text = "<color=lime>$</color>" + price;
     }
 }
