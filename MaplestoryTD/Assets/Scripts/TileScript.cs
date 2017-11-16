@@ -13,11 +13,13 @@ public class TileScript : MonoBehaviour
 
     private Color32 emptyColor = new Color32(96, 156, 90, 255);
 
-    private SpriteRenderer spriteRenderer;
+    public SpriteRenderer SpriteRend { get; set; }
+
+    public bool Debugging { get; set; }
 
     void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        SpriteRend = GetComponent<SpriteRenderer>();
     }
 
     //public Color startColor;
@@ -47,11 +49,11 @@ public class TileScript : MonoBehaviour
         
         if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.clickedBtn != null)
         {
-            if(IsEmpty)
+            if(IsEmpty && !Debugging)
             {
                 ColorTile(emptyColor);
             }
-            else if(!IsEmpty)
+            else if(!IsEmpty && !Debugging)
             {
                 ColorTile(fullColor);
             }
@@ -65,7 +67,10 @@ public class TileScript : MonoBehaviour
 
     private void OnMouseExit()
     {
-        ColorTile(Color.white);
+        if (!Debugging)
+        {
+            ColorTile(Color.white);
+        }
     }
 
     private void PlaceTower()
@@ -87,6 +92,6 @@ public class TileScript : MonoBehaviour
     //check if mouse over tile is occupied or empty
     private void ColorTile(Color newColor)
     {
-        spriteRenderer.color = newColor;
+        SpriteRend.color = newColor;
     }
 }
