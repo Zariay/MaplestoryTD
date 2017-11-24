@@ -24,6 +24,8 @@ public class LevelManager : Singleton<LevelManager>
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
+    private Point mapSize;
+
     //create property to access information;
     public float TileSize
     {
@@ -46,8 +48,10 @@ public class LevelManager : Singleton<LevelManager>
     private void CreateLevel()
     {
         Tiles = new Dictionary<Point, TileScript>();
-        //temporary instantiation of the map level, will load through text doc later
+        //Load map through text doc
         string[] mapData = ReadLevelText();
+
+        mapSize = new global::Point(mapData[0].ToCharArray().Length, mapData.Length);
 
         int mapXSize = mapData[0].ToCharArray().Length; //x axis size
         int mapYSize = mapData.Length; //y axis size
@@ -104,5 +108,10 @@ public class LevelManager : Singleton<LevelManager>
 
         endPortal = new Point(17,6);
         Instantiate(endPortPrefab, Tiles[endPortal].GetComponent<TileScript>().WorldPos, Quaternion.identity);
+    }
+
+    public bool inBounds(Point Position)
+    {
+        return Position.X >= 0 && Position.Y >= 0 && Position.X < mapSize.X && Position.Y < mapSize.Y;
     }
 }

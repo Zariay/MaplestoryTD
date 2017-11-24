@@ -13,9 +13,11 @@ public class TileScript : MonoBehaviour
 
     private Color32 emptyColor = new Color32(96, 156, 90, 255);
 
-    public SpriteRenderer SpriteRend { get; set; }
+    private SpriteRenderer SpriteRend;
 
     public bool Debugging { get; set; }
+
+    public bool Walkable { get; set; }
 
     void Start()
     {
@@ -39,6 +41,7 @@ public class TileScript : MonoBehaviour
         transform.SetParent(parent);
 
         IsEmpty = true;
+        Walkable = true;
 
         //add new tiles to Dictionary so we can access each tile by x y position
         LevelManager.Instance.Tiles.Add(gridPos, this);
@@ -83,6 +86,7 @@ public class TileScript : MonoBehaviour
 
         //check if tile is empty for monsters + tower placement
         IsEmpty = false;
+        Walkable = false;
 
         ColorTile(Color.white);
 

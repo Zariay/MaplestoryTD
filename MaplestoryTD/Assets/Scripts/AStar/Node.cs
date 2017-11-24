@@ -10,11 +10,19 @@ public class Node
 
     public TileScript TileReference
     { get; private set; }
+
+
+    public Node Parent { get; private set; }
     
 
     public Node(TileScript tileRef)
     {
         this.TileReference = tileRef;
         this.GridPosition = tileRef.GridPos;
+    }
+
+    public void CalcValues(Node parent)
+    {
+        this.Parent = parent;
     }
 }
