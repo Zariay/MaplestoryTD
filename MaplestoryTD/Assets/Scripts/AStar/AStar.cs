@@ -68,6 +68,10 @@ public static class AStar
                         }
                         else
                         {
+                            if(!ConnectedDiagonally(currentNode, nodes[neighbourPos]))
+                            {
+                                continue;
+                            }
                             gScore = 14;
                         }
 
@@ -114,8 +118,25 @@ public static class AStar
 
         //**** ONLY FOR DEBUGGING **** REMOVE LATER
 
-        GameObject.Find("AStarDebug").GetComponent<AStarDebug>().DebugPath(openList, closedList);
+        GameObject.Find("AStarDebug").GetComponent<AStarDebug>().DebugPath(openList, closedList, finalPath);
     }
 
+    //check if diagonal tiles next to final path are walkable or not. affects final pathing
+    private static bool ConnectedDiagonally(Node currentNode, Node neighbourNode)
+    {
+        Point direction = neighbourNode.GridPosition - currentNode.GridPosition;
+
+        Point first = new global::Point(currentNode.GridPosition.X + direction.X, currentNode.GridPosition.Y);
+
+        Point second = new global::Point(currentNode.GridPosition.X, currentNode.GridPosition.Y + direction.Y);
+
+
+        if(LevelManager.Instance.inBounds(first) && !LevelManager.Instance.Tiles[first].Walkable || LevelManager.Instance.inBounds(second) && !LevelManager.Instance.Tiles[second].Walkable)
+        {
+            return false;
+        }
+
+        return true;
+    }
 
 }

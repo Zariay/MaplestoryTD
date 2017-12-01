@@ -27,7 +27,7 @@ public class GameManager : Singleton<GameManager>
 
     void Start()
     {
-        Meso = 6;
+        Meso = 20;
     }
 
     void Update()
