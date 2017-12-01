@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using System.Linq;
 
 //static class. can use everything that is public in other classes in a class level
 public static class AStar 
@@ -35,55 +36,81 @@ public static class AStar
         //create closed list to be used for A* algorithm
         HashSet<Node> closedList = new HashSet<Node>();
 
+        //stack that holds the final path. push and pop the nodes in the stack
+        Stack<Node> finalPath = new Stack<Node>();
+
         //find start node and sets it as a reference
         Node currentNode = nodes[startPoint];
 
-        //add the current node to the Open list
+        //1. add the current node to the Open list
         openList.Add(currentNode);
 
-        //position of neighbours
-        //X value above, beside and below 
-        for(int x = -1; x <= 1; ++x)
+        while(openList.Count > 0) // Step 10
         {
-            //Y value above, beside, and below
-            for(int y = -1; y <= 1; ++y)
+            //2. position of neighbours
+            //X value above, beside and below 
+            for (int x = -1; x <= 1; ++x)
             {
-                Point neighbourPos = new Point(currentNode.GridPosition.X - x, currentNode.GridPosition.Y - y);
-
-                //Check if neighbour positions are in bounds of the map, are walkable and are not the current node
-                if(LevelManager.Instance.inBounds(neighbourPos) && LevelManager.Instance.Tiles[neighbourPos].Walkable && neighbourPos != currentNode.GridPosition)
+                //Y value above, beside, and below
+                for (int y = -1; y <= 1; ++y)
                 {
-                    //calculate gScore of tile for Node pathfinding
-                    int gScore = 0;
+                    Point neighbourPos = new Point(currentNode.GridPosition.X - x, currentNode.GridPosition.Y - y);
 
-                    //check the absolute value of the neighbouring nodes
-                    //[14][10][14]
-                    //[10][S][10]
-                    //[14][10][14]
-                    if(Math.Abs(x - y) == 1)
+                    //Check if neighbour positions are in bounds of the map, are walkable and are not the current node
+                    if (LevelManager.Instance.inBounds(neighbourPos) && LevelManager.Instance.Tiles[neighbourPos].Walkable && neighbourPos != currentNode.GridPosition)
                     {
-                        gScore = 10;
-                    }
-                    else
-                    {
-                        gScore = 14;
-                    }
+                        //calculate gScore of tile for Node pathfinding
+                        int gScore = 0;
 
-                    Node neighbourNode = nodes[neighbourPos];
+                        if (Math.Abs(x - y) == 1)
+                        {
+                            gScore = 10;
+                        }
+                        else
+                        {
+                            gScore = 14;
+                        }
 
-                    if(!openList.Contains(neighbourNode))
-                    {
-                        openList.Add(neighbourNode);
+                        //Step 3. Add neighbour to open list
+                        Node neighbourNode = nodes[neighbourPos];
+
+                        if (openList.Contains(neighbourNode))
+                        {
+                            if (currentNode.G + gScore < neighbourNode.G)//Step 9.4
+                            {
+                                neighbourNode.CalcValues(currentNode, nodes[endPoint], gScore);
+                            }
+
+                        }
+                        else if (!closedList.Contains(neighbourNode))//Step 9.1
+                        {
+                            openList.Add(neighbourNode); //9.2
+                            neighbourNode.CalcValues(currentNode, nodes[endPoint], gScore); //9.3
+                        }
                     }
-
-                    neighbourNode.CalcValues(currentNode, nodes[endPoint] , gScore);
                 }
             }
-        }
 
-        //remove current node from openlist and add to closed list;
-        openList.Remove(currentNode);
-        closedList.Add(currentNode);
+            //Step 5 and 8. remove current node from openlist and add to closed list;
+            openList.Remove(currentNode);
+            closedList.Add(currentNode);
+
+            if (openList.Count > 0)// Step 7 in AStar tutorial video
+            {
+                //lambda expression to sort list by F Value and selects first one on the list.
+                currentNode = openList.OrderBy(n => n.F).First();
+            }
+
+            if(currentNode == nodes[endPoint])
+            {
+                while(currentNode.GridPosition != startPoint)
+                {
+                    finalPath.Push(currentNode);
+                    currentNode = currentNode.Parent;
+                }
+                break;
+            }
+        }
 
         //**** ONLY FOR DEBUGGING **** REMOVE LATER
 

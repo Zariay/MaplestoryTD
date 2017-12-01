@@ -29,7 +29,7 @@ public class Node
     {
         this.Parent = parent;
         this.G = parent.G + GScore;
-        this.H = Math.Abs((GridPosition.X - goal.GridPosition.X) + (goal.GridPosition.Y - GridPosition.Y)) * 10;
+        this.H = (Math.Abs(GridPosition.X - goal.GridPosition.X) + Math.Abs(goal.GridPosition.Y - GridPosition.Y)) * 10;
         this.F = G + H;
     }
 }
