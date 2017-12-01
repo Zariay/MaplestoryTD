@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 //static class. can use everything that is public in other classes in a class level
 public static class AStar 
@@ -21,7 +22,7 @@ public static class AStar
     }
 
     //find the path
-    public static void GetPath(Point startPoint)
+    public static void GetPath(Point startPoint, Point endPoint)
     {
         if(nodes == null)
         {
@@ -52,6 +53,22 @@ public static class AStar
                 //Check if neighbour positions are in bounds of the map, are walkable and are not the current node
                 if(LevelManager.Instance.inBounds(neighbourPos) && LevelManager.Instance.Tiles[neighbourPos].Walkable && neighbourPos != currentNode.GridPosition)
                 {
+                    //calculate gScore of tile for Node pathfinding
+                    int gScore = 0;
+
+                    //check the absolute value of the neighbouring nodes
+                    //[14][10][14]
+                    //[10][S][10]
+                    //[14][10][14]
+                    if(Math.Abs(x - y) == 1)
+                    {
+                        gScore = 10;
+                    }
+                    else
+                    {
+                        gScore = 14;
+                    }
+
                     Node neighbourNode = nodes[neighbourPos];
 
                     if(!openList.Contains(neighbourNode))
@@ -59,7 +76,7 @@ public static class AStar
                         openList.Add(neighbourNode);
                     }
 
-                    neighbourNode.CalcValues(currentNode);
+                    neighbourNode.CalcValues(currentNode, nodes[endPoint] , gScore);
                 }
             }
         }

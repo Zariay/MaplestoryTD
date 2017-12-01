@@ -28,7 +28,7 @@ public class AStarDebug : MonoBehaviour
 
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            AStar.GetPath(startNode.GridPos);
+            AStar.GetPath(startNode.GridPos, endNode.GridPos);
         }
     }
 
@@ -67,7 +67,7 @@ public class AStarDebug : MonoBehaviour
         {
             if(node.TileReference != startNode)
             {
-                CreateDebugTile(node.TileReference.WorldPos, Color.cyan);
+                CreateDebugTile(node.TileReference.WorldPos, Color.cyan, node);
             }
             PointToParent(node, node.TileReference.WorldPos);
         }
@@ -76,9 +76,8 @@ public class AStarDebug : MonoBehaviour
         {
             if (node.TileReference != startNode && node.TileReference != endNode)
             {
-                CreateDebugTile(node.TileReference.WorldPos, Color.blue);
+                CreateDebugTile(node.TileReference.WorldPos, Color.blue, node);
             }
-            CreateDebugTile(node.TileReference.WorldPos, Color.blue);
             //PointToParent(node, node.TileReference.WorldPos);
         }
     }
@@ -132,9 +131,17 @@ public class AStarDebug : MonoBehaviour
         }
     }
 
-    private void CreateDebugTile(Vector3 worldPos, Color32 color)
+    private void CreateDebugTile(Vector3 worldPos, Color32 color, Node node = null)
     {
         GameObject debugTile = (GameObject)Instantiate(debugTilePrefab, worldPos, Quaternion.identity);
+
+        if(node != null)
+        {
+            DebugTile tmp = debugTile.GetComponent<DebugTile>();
+            tmp.G.text += node.G;
+            tmp.H.text += node.H;
+            tmp.F.text += node.F;
+        }
 
         debugTile.GetComponent<SpriteRenderer>().color = color;
     }

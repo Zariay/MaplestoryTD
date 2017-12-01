@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class Node 
 {
@@ -13,7 +14,10 @@ public class Node
 
 
     public Node Parent { get; private set; }
-    
+
+    public int G { get; set; }
+    public int F { get; set; }
+    public int H { get; set; }
 
     public Node(TileScript tileRef)
     {
@@ -21,8 +25,11 @@ public class Node
         this.GridPosition = tileRef.GridPos;
     }
 
-    public void CalcValues(Node parent)
+    public void CalcValues(Node parent, Node goal, int GScore)
     {
         this.Parent = parent;
+        this.G = parent.G + GScore;
+        this.H = Math.Abs((GridPosition.X - goal.GridPosition.X) + (goal.GridPosition.Y - GridPosition.Y)) * 10;
+        this.F = G + H;
     }
 }
