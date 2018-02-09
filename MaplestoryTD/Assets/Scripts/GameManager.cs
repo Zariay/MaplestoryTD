@@ -7,6 +7,8 @@ public class GameManager : Singleton<GameManager>
 {
     public TowerButton clickedBtn { get; set; }
 
+    public ObjectPool objectPool { get; set; }
+
     //currency to purchase tower
     public int Meso
     {
@@ -24,6 +26,12 @@ public class GameManager : Singleton<GameManager>
     private int meso;
     [SerializeField]
     private Text currencyText;
+
+    private void Awake()
+    {
+        objectPool = GetComponent<ObjectPool>();
+    }
+
 
     void Start()
     {
@@ -64,5 +72,37 @@ public class GameManager : Singleton<GameManager>
         {
             Hover.Instance.Deactivate();
         }
+    }
+
+    public void StartWave()
+    {
+        StartCoroutine(SpawnWave());
+    }
+
+    public IEnumerator SpawnWave()
+    {
+        //CoRoutine to make mobs spawn over time
+
+        int monsterIdx = Random.Range(0, 2);
+
+        string type = string.Empty;
+
+        switch (monsterIdx)
+        {
+            case 0:
+                type = "BlueSnail";
+                break;
+            case 1:
+                type = "RedSnail";
+                break;
+            default:
+                type = string.Empty;
+                break;
+        }
+
+        Monster monster = objectPool.GetObject(type).GetComponent<Monster>();
+        monster.Spawn();
+
+        yield return new WaitForSeconds(2.5f);
     }
 }

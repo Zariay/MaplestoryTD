@@ -22,6 +22,8 @@ public class LevelManager : Singleton<LevelManager>
     [SerializeField]
     private GameObject endPortPrefab;
 
+    public Portal StartPortal { get; set; }
+
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
     private Point mapSize;
@@ -103,8 +105,11 @@ public class LevelManager : Singleton<LevelManager>
 
     private void SpawnPortals()
     {
+        //spawns start portal
         startPortal = new Point(0, 0);
-        Instantiate(startPortPrefab, Tiles[startPortal].GetComponent<TileScript>().WorldPos, Quaternion.identity);
+        GameObject sptmp = (GameObject)Instantiate(startPortPrefab, Tiles[startPortal].GetComponent<TileScript>().WorldPos, Quaternion.identity);
+        StartPortal = sptmp.GetComponent<Portal>();
+        StartPortal.name = "StartPortal";
 
         endPortal = new Point(17,6);
         Instantiate(endPortPrefab, Tiles[endPortal].GetComponent<TileScript>().WorldPos, Quaternion.identity);
