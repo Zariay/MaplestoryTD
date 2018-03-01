@@ -83,6 +83,8 @@ public class GameManager : Singleton<GameManager>
     {
         //CoRoutine to make mobs spawn over time
 
+        LevelManager.Instance.GeneratePath();
+
         int monsterIdx = Random.Range(0, 2);
 
         string type = string.Empty;

@@ -19,10 +19,13 @@ public class Node
     public int F { get; set; }
     public int H { get; set; }
 
+    public Vector2 worldPosition { get; set; }
+
     public Node(TileScript tileRef)
     {
         this.TileReference = tileRef;
         this.GridPosition = tileRef.GridPos;
+        this.worldPosition = worldPosition;
     }
 
     public void CalcValues(Node parent, Node goal, int GScore)

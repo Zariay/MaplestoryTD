@@ -28,6 +28,24 @@ public class LevelManager : Singleton<LevelManager>
 
     private Point mapSize;
 
+    private Stack<Node> finalPath;
+
+    public Stack<Node> Path
+    {
+        get
+        {
+            //provide every monster it's own set of nodes to follow for pathing rather than a global stack
+            //prevents multiple monsters not obtaining their own path information
+            if(finalPath==null)
+            {
+                GeneratePath();
+            }
+            
+            return new Stack<Node>(new Stack<Node>(finalPath));
+        }
+
+    }
+
     //create property to access information;
     public float TileSize
     {
@@ -118,5 +136,10 @@ public class LevelManager : Singleton<LevelManager>
     public bool inBounds(Point Position)
     {
         return Position.X >= 0 && Position.Y >= 0 && Position.X < mapSize.X && Position.Y < mapSize.Y;
+    }
+
+    public void GeneratePath()
+    {
+        finalPath = AStar.GetPath(startPortal, endPortal);
     }
 }

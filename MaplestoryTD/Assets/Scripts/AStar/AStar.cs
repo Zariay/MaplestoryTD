@@ -23,7 +23,7 @@ public static class AStar
     }
 
     //find the path
-    public static void GetPath(Point startPoint, Point endPoint)
+    public static Stack<Node> GetPath(Point startPoint, Point endPoint)
     {
         if(nodes == null)
         {
@@ -118,7 +118,9 @@ public static class AStar
 
         //**** ONLY FOR DEBUGGING **** REMOVE LATER
 
-        GameObject.Find("AStarDebug").GetComponent<AStarDebug>().DebugPath(openList, closedList, finalPath);
+        //GameObject.Find("AStarDebug").GetComponent<AStarDebug>().DebugPath(openList, closedList, finalPath);
+
+        return finalPath;
     }
 
     //check if diagonal tiles next to final path are walkable or not. affects final pathing
